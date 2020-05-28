@@ -8,6 +8,7 @@ This documentation is built using [Docusaurus 2](https://v2.docusaurus.io/), a m
 ### Local Development
 
 ```
+$ npm install
 $ npm start
 ```
 
