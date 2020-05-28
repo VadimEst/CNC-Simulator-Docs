@@ -65,11 +65,11 @@ module.exports = {
                 {
                     title: 'More',
                     items: [{
-                            label: 'Impressum',
+                            label: 'Imprint',
                             to: 'https://timonwei.de/impressum/',
                         },
                         {
-                            label: 'Datenschutzerklärung',
+                            label: 'Privacy Statement',
                             href: 'https://timonwei.de/datenschutzerklaerung/',
                         },
                     ],
