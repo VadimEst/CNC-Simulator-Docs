@@ -1,0 +1,30 @@
+{
+  "/": {
+    "component": "c4f5d8e4"
+  },
+  "/docs": {
+    "component": "1be78505",
+    "docsMetadata": "f2214581",
+    "content": "b2f90839"
+  },
+  "/docs/:route": {
+    "component": "1be78505",
+    "docsMetadata": "20ac7829"
+  },
+  "/docs/doc1": {
+    "component": "17896441",
+    "content": "b2f90839"
+  },
+  "/docs/doc2": {
+    "component": "17896441",
+    "content": "df361e2b"
+  },
+  "/docs/doc3": {
+    "component": "17896441",
+    "content": "616665f6"
+  },
+  "/docs/mdx": {
+    "component": "17896441",
+    "content": "ce3e42ad"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2": [
+      0,
+      1,
+      7,
+      13,
+      14,
+      2
+    ],
+    "common": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      13,
+      14,
+      0
+    ],
+    "styles": [
+      0,
+      2,
+      3,
+      7,
+      11,
+      12,
+      13,
+      14,
+      1
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      2,
+      13
+    ],
+    "~docs/docs-route-ff2.json": [
+      4
+    ],
+    "@site/docs/doc3.md": [
+      0,
+      5
+    ],
+    "@site/docs/doc1.md": [
+      0,
+      6
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "@site/docs/mdx.md": [
+      0,
+      8
+    ],
+    "@site/docs/doc2.md": [
+      0,
+      9
+    ],
+    "~docs/site-docs-doc-1-md-b2f-base.json": [
+      10
+    ],
+    "main": [
+      1,
+      12,
+      11
+    ],
+    "runtime~main": [
+      1,
+      11,
+      12
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      13
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      2,
+      14
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "common.9c4a8efb.js",
+          "hash": "19a3f6411db02c4d0d55",
+          "publicPath": "/common.9c4a8efb.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "styles.2d35ee25.css",
+          "hash": "c3d2f576d48019347930",
+          "publicPath": "/styles.2d35ee25.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.f5a86945.js",
+          "hash": "c3d2f576d48019347930",
+          "publicPath": "/styles.f5a86945.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.d6cf74a0.js",
+          "hash": "fad4c03a937ad7750573",
+          "publicPath": "/2.d6cf74a0.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "20ac7829.7df32154.js",
+          "hash": "01241426f1379ce4e237",
+          "publicPath": "/20ac7829.7df32154.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "616665f6.47dfd79d.js",
+          "hash": "b2e813390a39dcc85e4c",
+          "publicPath": "/616665f6.47dfd79d.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "b2f90839.0f64c6b3.js",
+          "hash": "ed379c8fe5e7d4f60f64",
+          "publicPath": "/b2f90839.0f64c6b3.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "c4f5d8e4.1a8893e8.js",
+          "hash": "d8b467624bcb5d0c1ff5",
+          "publicPath": "/c4f5d8e4.1a8893e8.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "ce3e42ad.e037faa0.js",
+          "hash": "2733ca1d84d430cec188",
+          "publicPath": "/ce3e42ad.e037faa0.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "df361e2b.bb008741.js",
+          "hash": "5b7858e6c6a9d3f523f1",
+          "publicPath": "/df361e2b.bb008741.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "f2214581.024a69a1.js",
+          "hash": "3b89bb15d2089905dda3",
+          "publicPath": "/f2214581.024a69a1.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "main.3a37b3cd.js",
+          "hash": "320c723996cd3acab99f",
+          "publicPath": "/main.3a37b3cd.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "runtime~main.c651a8fd.js",
+          "hash": "5f229e99ed2f4789f7a0",
+          "publicPath": "/runtime~main.c651a8fd.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "13.31b03dab.js",
+          "hash": "5292f46572c2ea61208e",
+          "publicPath": "/13.31b03dab.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "14.5ba8a04b.js",
+          "hash": "71fffe6dd336940d1788",
+          "publicPath": "/14.5ba8a04b.js"
+        }
+      ]
+    }
+  }
+}
