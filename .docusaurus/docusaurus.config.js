@@ -36,12 +36,12 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Style Guide",
-              "to": "docs/user/"
+              "label": "User Documentation",
+              "to": "docs/user/userdocs/"
             },
             {
-              "label": "Second Doc",
-              "to": "docs/doc2/"
+              "label": "Developer Documentation",
+              "to": "docs/dev/devdocs/"
             }
           ]
         },
