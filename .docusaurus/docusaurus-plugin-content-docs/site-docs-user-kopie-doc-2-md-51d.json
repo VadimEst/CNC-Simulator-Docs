@@ -1,0 +1,8 @@
+{
+  "id": "user Kopie/doc2",
+  "title": "Document Number 2",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/user Kopie/doc2.md",
+  "permalink": "/docs/user Kopie/doc2",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user Kopie/doc2.md"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "user/doc2",
+  "title": "Document Number 2",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/user/doc2.md",
+  "permalink": "/docs/user/doc2",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/doc2.md",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "Style Guide",
+    "permalink": "/docs/user/userdocs"
+  },
+  "next": {
+    "title": "This is Document Number 3",
+    "permalink": "/docs/user/doc3"
+  }
+}

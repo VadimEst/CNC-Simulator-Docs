@@ -1,30 +1,41 @@
 {
   "/": {
-    "component": "c4f5d8e4"
-  },
-  "/docs": {
-    "component": "1be78505",
-    "docsMetadata": "f2214581",
-    "content": "b2f90839"
+    "component": "component---site-src-pages-index-jsc-4-f-f99"
   },
   "/docs/:route": {
-    "component": "1be78505",
-    "docsMetadata": "20ac7829"
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-route-20-a-f24"
   },
-  "/docs/doc1": {
-    "component": "17896441",
-    "content": "b2f90839"
+  "/docs/dev/devdocs": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-userdocs-1-f-9-e68"
   },
-  "/docs/doc2": {
-    "component": "17896441",
-    "content": "df361e2b"
+  "/docs/dev/doc2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-doc-2-b-1-a-7ed"
   },
-  "/docs/doc3": {
-    "component": "17896441",
-    "content": "616665f6"
+  "/docs/dev/doc3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-doc-3560-e59"
   },
-  "/docs/mdx": {
-    "component": "17896441",
-    "content": "ce3e42ad"
+  "/docs/dev/mdx": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-mdx-52-d-79b"
+  },
+  "/docs/user/doc2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-doc-2-c-9-b-29e"
+  },
+  "/docs/user/doc3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-doc-3-c-1-e-fc0"
+  },
+  "/docs/user/mdx": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-mdx-3-bd-e0a"
+  },
+  "/docs/user/userdocs": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-userdocsdd-1-bff"
   }
 }

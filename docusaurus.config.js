@@ -14,9 +14,15 @@ module.exports = {
                 src: 'img/logo.svg',
             },
             links: [{
-                    to: 'docs/',
-                    activeBasePath: 'docs',
-                    label: 'Docs',
+                    to: 'docs/user/userdocs/',
+                    activeBasePath: 'docs/user/',
+                    label: 'User Documentation',
+                    position: 'right',
+                },
+                {
+                    to: 'docs/dev/devdocs/',
+                    activeBasePath: 'docs/dev/',
+                    label: 'Developer Documentation',
                     position: 'right',
                 },
                 {
@@ -32,7 +38,7 @@ module.exports = {
                     title: 'Docs',
                     items: [{
                             label: 'Style Guide',
-                            to: 'docs/',
+                            to: 'docs/user/',
                         },
                         {
                             label: 'Second Doc',
@@ -78,15 +84,15 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-                    homePageId: 'doc1',
+                    homePageId: 'docs/user/',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/timonweide/cnc-simulator-docs/edit/master/website/',
+                    editUrl: 'https://github.com/timonweide/cnc-simulator-docs/edit/master/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/cnc-simulator-docs/edit/master/website/blog/',
+                    editUrl: 'https://github.com/timonweide/cnc-simulator-docs/edit/master/website/blog/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

@@ -1,6 +1,6 @@
 {
   "docsSidebars": {
-    "someSidebar": [
+    "userSidebar": [
       {
         "type": "category",
         "label": "Docusaurus",
@@ -8,17 +8,17 @@
           {
             "type": "link",
             "label": "Style Guide",
-            "href": "/docs/doc1"
+            "href": "/docs/user/userdocs"
           },
           {
             "type": "link",
             "label": "Document Number 2",
-            "href": "/docs/doc2"
+            "href": "/docs/user/doc2"
           },
           {
             "type": "link",
             "label": "This is Document Number 3",
-            "href": "/docs/doc3"
+            "href": "/docs/user/doc3"
           }
         ]
       },
@@ -29,16 +29,54 @@
           {
             "type": "link",
             "label": "Powered by MDX",
-            "href": "/docs/mdx"
+            "href": "/docs/user/mdx"
+          }
+        ]
+      }
+    ],
+    "devSidebar": [
+      {
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/docs/dev/devdocs"
+          },
+          {
+            "type": "link",
+            "label": "Document Number 2",
+            "href": "/docs/dev/doc2"
+          },
+          {
+            "type": "link",
+            "label": "This is Document Number 3",
+            "href": "/docs/dev/doc3"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/dev/mdx"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/doc1": "someSidebar",
-    "/docs/doc2": "someSidebar",
-    "/docs/doc3": "someSidebar",
-    "/docs/mdx": "someSidebar"
+    "/docs/dev/devdocs": "devSidebar",
+    "/docs/dev/doc2": "devSidebar",
+    "/docs/dev/doc3": "devSidebar",
+    "/docs/dev/mdx": "devSidebar",
+    "/docs/user/doc2": "userSidebar",
+    "/docs/user/doc3": "userSidebar",
+    "/docs/user/mdx": "userSidebar",
+    "/docs/user/userdocs": "userSidebar"
   }
 }

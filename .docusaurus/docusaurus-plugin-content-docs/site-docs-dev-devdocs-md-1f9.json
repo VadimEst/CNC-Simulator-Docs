@@ -1,0 +1,14 @@
+{
+  "id": "dev/devdocs",
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/dev/devdocs.md",
+  "permalink": "/docs/dev/devdocs",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/devdocs.md",
+  "sidebar_label": "Style Guide",
+  "sidebar": "devSidebar",
+  "next": {
+    "title": "Document Number 2",
+    "permalink": "/docs/dev/doc2"
+  }
+}

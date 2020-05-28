@@ -1,10 +1,13 @@
 export default {
-  '17896441': [() => import(/* webpackChunkName: '17896441' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
-  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
-  '20ac7829': [() => import(/* webpackChunkName: '20ac7829' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],
-  '616665f6': [() => import(/* webpackChunkName: '616665f6' */ "@site/docs/doc3.md"), "@site/docs/doc3.md", require.resolveWeak("@site/docs/doc3.md")],
-  'b2f90839': [() => import(/* webpackChunkName: 'b2f90839' */ "@site/docs/doc1.md"), "@site/docs/doc1.md", require.resolveWeak("@site/docs/doc1.md")],
-  'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
-  'ce3e42ad': [() => import(/* webpackChunkName: 'ce3e42ad' */ "@site/docs/mdx.md"), "@site/docs/mdx.md", require.resolveWeak("@site/docs/mdx.md")],
-  'df361e2b': [() => import(/* webpackChunkName: 'df361e2b' */ "@site/docs/doc2.md"), "@site/docs/doc2.md", require.resolveWeak("@site/docs/doc2.md")],
-  'f2214581': [() => import(/* webpackChunkName: 'f2214581' */ "~docs/site-docs-doc-1-md-b2f-base.json"), "~docs/site-docs-doc-1-md-b2f-base.json", require.resolveWeak("~docs/site-docs-doc-1-md-b2f-base.json")],};
+  'component---site-src-pages-index-jsc-4-f-f99': [() => import(/* webpackChunkName: 'component---site-src-pages-index-jsc-4-f-f99' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
+  'component---theme-doc-item-178-a40': [() => import(/* webpackChunkName: 'component---theme-doc-item-178-a40' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  'component---theme-doc-page-1-be-9be': [() => import(/* webpackChunkName: 'component---theme-doc-page-1-be-9be' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
+  'content---docs-dev-doc-2-b-1-a-7ed': [() => import(/* webpackChunkName: 'content---docs-dev-doc-2-b-1-a-7ed' */ "@site/docs/dev/doc2.md"), "@site/docs/dev/doc2.md", require.resolveWeak("@site/docs/dev/doc2.md")],
+  'content---docs-dev-doc-3560-e59': [() => import(/* webpackChunkName: 'content---docs-dev-doc-3560-e59' */ "@site/docs/dev/doc3.md"), "@site/docs/dev/doc3.md", require.resolveWeak("@site/docs/dev/doc3.md")],
+  'content---docs-dev-mdx-52-d-79b': [() => import(/* webpackChunkName: 'content---docs-dev-mdx-52-d-79b' */ "@site/docs/dev/mdx.md"), "@site/docs/dev/mdx.md", require.resolveWeak("@site/docs/dev/mdx.md")],
+  'content---docs-dev-userdocs-1-f-9-e68': [() => import(/* webpackChunkName: 'content---docs-dev-userdocs-1-f-9-e68' */ "@site/docs/dev/devdocs.md"), "@site/docs/dev/devdocs.md", require.resolveWeak("@site/docs/dev/devdocs.md")],
+  'content---docs-user-doc-2-c-9-b-29e': [() => import(/* webpackChunkName: 'content---docs-user-doc-2-c-9-b-29e' */ "@site/docs/user/doc2.md"), "@site/docs/user/doc2.md", require.resolveWeak("@site/docs/user/doc2.md")],
+  'content---docs-user-doc-3-c-1-e-fc0': [() => import(/* webpackChunkName: 'content---docs-user-doc-3-c-1-e-fc0' */ "@site/docs/user/doc3.md"), "@site/docs/user/doc3.md", require.resolveWeak("@site/docs/user/doc3.md")],
+  'content---docs-user-mdx-3-bd-e0a': [() => import(/* webpackChunkName: 'content---docs-user-mdx-3-bd-e0a' */ "@site/docs/user/mdx.md"), "@site/docs/user/mdx.md", require.resolveWeak("@site/docs/user/mdx.md")],
+  'content---docs-user-userdocsdd-1-bff': [() => import(/* webpackChunkName: 'content---docs-user-userdocsdd-1-bff' */ "@site/docs/user/userdocs.md"), "@site/docs/user/userdocs.md", require.resolveWeak("@site/docs/user/userdocs.md")],
+  'docsMetadata---docs-route-20-a-f24': [() => import(/* webpackChunkName: 'docsMetadata---docs-route-20-a-f24' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],};

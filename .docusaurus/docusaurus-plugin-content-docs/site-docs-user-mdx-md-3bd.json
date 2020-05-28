@@ -1,0 +1,13 @@
+{
+  "id": "user/mdx",
+  "title": "Powered by MDX",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs/user/mdx.md",
+  "permalink": "/docs/user/mdx",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/mdx.md",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "This is Document Number 3",
+    "permalink": "/docs/user/doc3"
+  }
+}

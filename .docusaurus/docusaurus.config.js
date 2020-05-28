@@ -11,9 +11,15 @@ export default {
       },
       "links": [
         {
-          "to": "docs/",
-          "activeBasePath": "docs",
-          "label": "Docs",
+          "to": "docs/user/userdocs/",
+          "activeBasePath": "docs/user/",
+          "label": "User Documentation",
+          "position": "right"
+        },
+        {
+          "to": "docs/dev/devdocs/",
+          "activeBasePath": "docs/dev/",
+          "label": "Developer Documentation",
           "position": "right"
         },
         {
@@ -31,7 +37,7 @@ export default {
           "items": [
             {
               "label": "Style Guide",
-              "to": "docs/"
+              "to": "docs/user/"
             },
             {
               "label": "Second Doc",
@@ -85,13 +91,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "homePageId": "doc1",
+          "homePageId": "docs/user/",
           "sidebarPath": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/sidebars.js",
-          "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/website/"
+          "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/cnc-simulator-docs/edit/master/website/blog/"
+          "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/src/css/custom.css"
