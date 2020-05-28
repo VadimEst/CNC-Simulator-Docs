@@ -37,7 +37,7 @@
     "devSidebar": [
       {
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Übersicht",
         "items": [
           {
             "type": "link",

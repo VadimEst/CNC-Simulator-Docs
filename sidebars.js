@@ -4,7 +4,7 @@ module.exports = {
     Features: ['user/mdx'],
   },
   devSidebar: {
-    Docusaurus: ['dev/devdocs', 'dev/doc2', 'dev/doc3'],
+    Übersicht: ['dev/devdocs', 'dev/doc2', 'dev/doc3'],
     Features: ['dev/mdx'],
   },
 };
