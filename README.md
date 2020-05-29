@@ -3,12 +3,15 @@
 This documentation is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation
+When you want to start or build for the first time, you have to install alle required node packages.
 
+```
+$ npm install
+```
 
 ### Local Development
 
 ```
-$ npm install
 $ npm start
 ```
 
@@ -19,7 +22,6 @@ To stop the local server use CTRL + C in shell.
 ### Build
 
 ```
-$ npm install
 $ npm run build
 ```
 
