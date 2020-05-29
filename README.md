@@ -1,6 +1,6 @@
 # CNC-Simulator Documentation
 
-This documentation is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This documentation is for the [CNC Simulator](https://github.com/timonweide/CNC-Simulator).
 
 ### Installation
 When you want to start or build for the first time, you have to install alle required node packages.
