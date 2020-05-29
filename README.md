@@ -30,3 +30,7 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 To deploy the changes to the [live site](https://docs.cnc.timon.cloud/) push your changes to the repository. The changes will be pulled to the webserver automatically.
+
+### Contribute to the docs
+
+To contribute to the docs, just edit or create a Markdown file in the /docs folder.
