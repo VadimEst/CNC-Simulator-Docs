@@ -1,6 +1,6 @@
 {
   "/": {
-    "component": "ece76bd1"
+    "component": "c4f5d8e4"
   },
   "/docs/:route": {
     "component": "1be78505",
@@ -8,34 +8,14 @@
   },
   "/docs/dev/devdocs": {
     "component": "17896441",
-    "content": "3996ccaa"
-  },
-  "/docs/dev/doc2": {
-    "component": "17896441",
-    "content": "8458bd25"
-  },
-  "/docs/dev/doc3": {
-    "component": "17896441",
-    "content": "3107547a"
+    "content": "1f9a87aa"
   },
   "/docs/dev/mdx": {
     "component": "17896441",
-    "content": "faebdca7"
-  },
-  "/docs/user/doc2": {
-    "component": "17896441",
-    "content": "28900afd"
-  },
-  "/docs/user/doc3": {
-    "component": "17896441",
-    "content": "f6eb8c3a"
-  },
-  "/docs/user/mdx": {
-    "component": "17896441",
-    "content": "46c04495"
+    "content": "52d7693e"
   },
   "/docs/user/userdocs": {
     "component": "17896441",
-    "content": "b8f177ba"
+    "content": "dd1d12ec"
   }
 }

@@ -22,38 +22,8 @@ export default [
   
 },
 {
-  path: '/docs/dev/doc2',
-  component: ComponentCreator('/docs/dev/doc2'),
-  exact: true,
-  
-},
-{
-  path: '/docs/dev/doc3',
-  component: ComponentCreator('/docs/dev/doc3'),
-  exact: true,
-  
-},
-{
   path: '/docs/dev/mdx',
   component: ComponentCreator('/docs/dev/mdx'),
-  exact: true,
-  
-},
-{
-  path: '/docs/user/doc2',
-  component: ComponentCreator('/docs/user/doc2'),
-  exact: true,
-  
-},
-{
-  path: '/docs/user/doc3',
-  component: ComponentCreator('/docs/user/doc3'),
-  exact: true,
-  
-},
-{
-  path: '/docs/user/mdx',
-  component: ComponentCreator('/docs/user/mdx'),
   exact: true,
   
 },

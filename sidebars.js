@@ -1,10 +1,9 @@
 module.exports = {
   userSidebar: {
-    Docusaurus: ['user/userdocs', 'user/doc2', 'user/doc3'],
-    Features: ['user/mdx'],
+    'Getting started': ['user/userdocs'],
   },
   devSidebar: {
-    Übersicht: ['dev/devdocs', 'dev/doc2', 'dev/doc3'],
+    'Getting started': ['dev/devdocs'],
     Features: ['dev/mdx'],
   },
 };

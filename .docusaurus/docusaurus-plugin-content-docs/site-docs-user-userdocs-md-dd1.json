@@ -6,9 +6,5 @@
   "permalink": "/docs/user/userdocs",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/userdocs.md",
   "sidebar_label": "Style Guide",
-  "sidebar": "userSidebar",
-  "next": {
-    "title": "Document Number 2",
-    "permalink": "/docs/user/doc2"
-  }
+  "sidebar": "userSidebar"
 }

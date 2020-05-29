@@ -8,7 +8,7 @@
   "sidebar_label": "Style Guide",
   "sidebar": "devSidebar",
   "next": {
-    "title": "Document Number 2",
-    "permalink": "/docs/dev/doc2"
+    "title": "Powered by MDX",
+    "permalink": "/docs/dev/mdx"
   }
 }
