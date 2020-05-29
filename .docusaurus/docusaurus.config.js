@@ -49,8 +49,21 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Bug Reporting",
-              "href": "https://github.com/timonweide/CNC-Simulator/issues/new?assignees=&labels=&template=bug_report.md&title="
+              "label": "Ticket System",
+              "href": "https://github.com/timonweide/CNC-Simulator/issues"
+            },
+            {
+              "label": "Create Ticket",
+              "href": "https://github.com/timonweide/CNC-Simulator/issues/new/choose"
+            }
+          ]
+        },
+        {
+          "title": "Miscellaneous",
+          "items": [
+            {
+              "label": "Contributors",
+              "href": "https://github.com/timonweide/CNC-Simulator/graphs/contributors"
             },
             {
               "label": "Feature Request",
@@ -63,7 +76,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Legal",
           "items": [
             {
               "label": "Imprint",
