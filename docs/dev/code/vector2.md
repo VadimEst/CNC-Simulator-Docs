@@ -31,13 +31,13 @@ The class **Vector2** provides the functionality of a two dimensional vector, e.
 | `float`       | **getY**      |             | Returns the current y coordinate |
 
 
-### setX()
+### setX(float x)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **setX**       |             | Sets the current x coordinate |
+| `void`       | **setX**       | x: float    | Sets the current x coordinate |
 
 
-### setY()
+### setY(float y)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **setY**       |             | Sets the current y coordinate |
+| `void`       | **setY**       | y:float     | Sets the current y coordinate |
