@@ -70,8 +70,8 @@ export default [
   
 },
 {
-  path: '/docs/user/userdocs',
-  component: ComponentCreator('/docs/user/userdocs'),
+  path: '/docs/user/overview',
+  component: ComponentCreator('/docs/user/overview'),
   exact: true,
   
 }],

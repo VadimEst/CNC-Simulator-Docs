@@ -8,7 +8,7 @@
           {
             "type": "link",
             "label": "Style Guide",
-            "href": "/docs/user/userdocs"
+            "href": "/docs/user/overview"
           }
         ]
       }
@@ -89,6 +89,6 @@
     "/docs/dev/overview": "devSidebar",
     "/docs/dev/scoping": "devSidebar",
     "/docs/dev/ui-concept": "devSidebar",
-    "/docs/user/userdocs": "userSidebar"
+    "/docs/user/overview": "userSidebar"
   }
 }

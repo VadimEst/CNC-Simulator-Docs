@@ -1,0 +1,10 @@
+{
+  "id": "user/overview",
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/user/overview.md",
+  "permalink": "/docs/user/overview",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/overview.md",
+  "sidebar_label": "Style Guide",
+  "sidebar": "userSidebar"
+}

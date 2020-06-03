@@ -11,7 +11,7 @@ export default {
       },
       "links": [
         {
-          "to": "docs/user/userdocs/",
+          "to": "docs/user/overview/",
           "activeBasePath": "docs/user/",
           "label": "User Documentation",
           "position": "right"
@@ -37,11 +37,11 @@ export default {
           "items": [
             {
               "label": "User Documentation",
-              "to": "docs/user/userdocs/"
+              "to": "docs/user/overview/"
             },
             {
               "label": "Developer Documentation",
-              "to": "docs/dev/devdocs/"
+              "to": "docs/dev/overview/"
             }
           ]
         },
