@@ -1,5 +1,5 @@
 ---
-id: devdocs
+id: overview
 title: Developer Documentation
 sidebar_label: Overview
 ---

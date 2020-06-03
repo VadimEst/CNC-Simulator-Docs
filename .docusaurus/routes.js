@@ -40,12 +40,6 @@ export default [
   
 },
 {
-  path: '/docs/dev/devdocs',
-  component: ComponentCreator('/docs/dev/devdocs'),
-  exact: true,
-  
-},
-{
   path: '/docs/dev/getting-started',
   component: ComponentCreator('/docs/dev/getting-started'),
   exact: true,
@@ -54,6 +48,12 @@ export default [
 {
   path: '/docs/dev/libraries',
   component: ComponentCreator('/docs/dev/libraries'),
+  exact: true,
+  
+},
+{
+  path: '/docs/dev/overview',
+  component: ComponentCreator('/docs/dev/overview'),
   exact: true,
   
 },

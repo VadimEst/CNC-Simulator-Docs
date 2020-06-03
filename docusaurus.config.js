@@ -20,7 +20,7 @@ module.exports = {
                     position: 'right',
                 },
                 {
-                    to: 'docs/dev/devdocs/',
+                    to: 'docs/dev/overview/',
                     activeBasePath: 'docs/dev/',
                     label: 'Developer Documentation',
                     position: 'right',

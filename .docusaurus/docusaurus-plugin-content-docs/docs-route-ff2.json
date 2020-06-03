@@ -21,7 +21,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/dev/devdocs"
+            "href": "/docs/dev/overview"
           },
           {
             "type": "link",
@@ -84,9 +84,9 @@
     "/docs/dev/code/tool": "devSidebar",
     "/docs/dev/code/vector2": "devSidebar",
     "/docs/dev/contribute": "devSidebar",
-    "/docs/dev/devdocs": "devSidebar",
     "/docs/dev/getting-started": "devSidebar",
     "/docs/dev/libraries": "devSidebar",
+    "/docs/dev/overview": "devSidebar",
     "/docs/dev/scoping": "devSidebar",
     "/docs/dev/ui-concept": "devSidebar",
     "/docs/user/userdocs": "userSidebar"

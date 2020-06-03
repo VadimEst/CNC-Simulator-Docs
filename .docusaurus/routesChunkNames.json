@@ -22,10 +22,6 @@
     "component": "17896441",
     "content": "62b14996"
   },
-  "/docs/dev/devdocs": {
-    "component": "17896441",
-    "content": "1f9a87aa"
-  },
   "/docs/dev/getting-started": {
     "component": "17896441",
     "content": "2bcf7170"
@@ -33,6 +29,10 @@
   "/docs/dev/libraries": {
     "component": "17896441",
     "content": "ab6f4390"
+  },
+  "/docs/dev/overview": {
+    "component": "17896441",
+    "content": "ab8e18e7"
   },
   "/docs/dev/scoping": {
     "component": "17896441",
