@@ -3,6 +3,13 @@ export default {
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
   '1f9a87aa': [() => import(/* webpackChunkName: '1f9a87aa' */ "@site/docs/dev/devdocs.md"), "@site/docs/dev/devdocs.md", require.resolveWeak("@site/docs/dev/devdocs.md")],
   '20ac7829': [() => import(/* webpackChunkName: '20ac7829' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],
-  '52d7693e': [() => import(/* webpackChunkName: '52d7693e' */ "@site/docs/dev/mdx.md"), "@site/docs/dev/mdx.md", require.resolveWeak("@site/docs/dev/mdx.md")],
+  '2bcf7170': [() => import(/* webpackChunkName: '2bcf7170' */ "@site/docs/dev/getting-started.md"), "@site/docs/dev/getting-started.md", require.resolveWeak("@site/docs/dev/getting-started.md")],
+  '62b14996': [() => import(/* webpackChunkName: '62b14996' */ "@site/docs/dev/contribute.md"), "@site/docs/dev/contribute.md", require.resolveWeak("@site/docs/dev/contribute.md")],
+  '66376dd0': [() => import(/* webpackChunkName: '66376dd0' */ "@site/docs/dev/code/tool.md"), "@site/docs/dev/code/tool.md", require.resolveWeak("@site/docs/dev/code/tool.md")],
+  '82afe118': [() => import(/* webpackChunkName: '82afe118' */ "@site/docs/dev/scoping.md"), "@site/docs/dev/scoping.md", require.resolveWeak("@site/docs/dev/scoping.md")],
+  'ab6f4390': [() => import(/* webpackChunkName: 'ab6f4390' */ "@site/docs/dev/libraries.md"), "@site/docs/dev/libraries.md", require.resolveWeak("@site/docs/dev/libraries.md")],
+  'b74db39e': [() => import(/* webpackChunkName: 'b74db39e' */ "@site/docs/dev/ui-concept.md"), "@site/docs/dev/ui-concept.md", require.resolveWeak("@site/docs/dev/ui-concept.md")],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
-  'dd1d12ec': [() => import(/* webpackChunkName: 'dd1d12ec' */ "@site/docs/user/userdocs.md"), "@site/docs/user/userdocs.md", require.resolveWeak("@site/docs/user/userdocs.md")],};
+  'dd1d12ec': [() => import(/* webpackChunkName: 'dd1d12ec' */ "@site/docs/user/userdocs.md"), "@site/docs/user/userdocs.md", require.resolveWeak("@site/docs/user/userdocs.md")],
+  'e34f3602': [() => import(/* webpackChunkName: 'e34f3602' */ "@site/docs/dev/architecture.md"), "@site/docs/dev/architecture.md", require.resolveWeak("@site/docs/dev/architecture.md")],
+  'e5b1cf1e': [() => import(/* webpackChunkName: 'e5b1cf1e' */ "@site/docs/dev/code/vector2.md"), "@site/docs/dev/code/vector2.md", require.resolveWeak("@site/docs/dev/code/vector2.md")],};

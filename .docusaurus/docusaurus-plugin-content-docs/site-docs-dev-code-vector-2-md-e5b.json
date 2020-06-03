@@ -1,0 +1,14 @@
+{
+  "id": "dev/code/vector2",
+  "title": "Vector2",
+  "description": "@package de.timonwei.cnc.Utility",
+  "source": "@site/docs/dev/code/vector2.md",
+  "permalink": "/docs/dev/code/vector2",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/vector2.md",
+  "sidebar_label": "Vector2",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Tool",
+    "permalink": "/docs/dev/code/tool"
+  }
+}

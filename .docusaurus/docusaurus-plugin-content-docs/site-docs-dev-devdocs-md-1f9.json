@@ -1,14 +1,14 @@
 {
   "id": "dev/devdocs",
-  "title": "Style Guide",
-  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "title": "Developer Documentation",
+  "description": "This is the developer documentation for the CNC Simulator project by Florian Koopmann, Yannik Pfrengle and Timon Weide.",
   "source": "@site/docs/dev/devdocs.md",
   "permalink": "/docs/dev/devdocs",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/devdocs.md",
-  "sidebar_label": "Style Guide",
+  "sidebar_label": "Overview",
   "sidebar": "devSidebar",
   "next": {
-    "title": "Powered by MDX",
-    "permalink": "/docs/dev/mdx"
+    "title": "Contribute",
+    "permalink": "/docs/dev/contribute"
   }
 }

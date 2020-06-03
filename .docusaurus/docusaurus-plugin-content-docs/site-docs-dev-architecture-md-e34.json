@@ -1,0 +1,18 @@
+{
+  "id": "dev/architecture",
+  "title": "Architecture",
+  "description": "tbd",
+  "source": "@site/docs/dev/architecture.md",
+  "permalink": "/docs/dev/architecture",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/architecture.md",
+  "sidebar_label": "Architecture",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Scoping",
+    "permalink": "/docs/dev/scoping"
+  },
+  "next": {
+    "title": "User Interface Concept",
+    "permalink": "/docs/dev/ui-concept"
+  }
+}

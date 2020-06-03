@@ -1,0 +1,9 @@
+{
+  "id": "dev/codedocs/tool",
+  "title": "Tool",
+  "description": "Docs for the tool class",
+  "source": "@site/docs/dev/codedocs/tool.md",
+  "permalink": "/docs/dev/codedocs/tool",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/codedocs/tool.md",
+  "sidebar_label": "Tool"
+}

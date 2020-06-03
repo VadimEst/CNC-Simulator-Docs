@@ -5,9 +5,9 @@
   "source": "@site/docs/dev/mdx.md",
   "permalink": "/docs/dev/mdx",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/mdx.md",
-  "sidebar": "devSidebar",
+  "sidebar": "userSidebar",
   "previous": {
     "title": "Style Guide",
-    "permalink": "/docs/dev/devdocs"
+    "permalink": "/docs/user/userdocs"
   }
 }
