@@ -69,7 +69,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/user/overview')}>
-              Start
+              Get Started
             </Link>
           </div>
         </div>
