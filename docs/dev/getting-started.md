@@ -4,6 +4,8 @@ title: Getting Started
 sidebar_label: Getting Started
 ---
 
+This getting started guide assumes that the repository is already present on your local machine as described under [Contribute](contribute).
+
  ## Run project
 
  On Windows start the VM with following options

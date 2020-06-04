@@ -1,7 +1,7 @@
 {
   "id": "dev/getting-started",
   "title": "Getting Started",
-  "description": "Run project",
+  "description": "This getting started guide assumes that the repository is already present on your local machine as described under Contribute.",
   "source": "@site/docs/dev/getting-started.md",
   "permalink": "/docs/dev/getting-started",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/getting-started.md",
