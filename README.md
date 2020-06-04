@@ -3,7 +3,7 @@
 This documentation is for the [CNC Simulator](https://github.com/timonweide/CNC-Simulator).
 
 ### Installation
-When you want to start or build for the first time, you have to install alle required node packages.
+When you want to start or build for the first time, you have to install alle required node packages in the root folder of the repository.
 
 ```
 $ npm install
@@ -15,7 +15,7 @@ $ npm install
 $ npm start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server. The local server can be reached by opening localhost:3000 in browser.
+This command starts a local development server and open up a browser window if it's executed in the root folder of the repository. Most changes are reflected live without having to restart the server. The local server can be reached by opening localhost:3000 in browser.
 
 To stop the local server use CTRL + C in shell.
 
