@@ -3,7 +3,7 @@
 This documentation is for the [CNC Simulator](https://github.com/timonweide/CNC-Simulator).
 
 ### Installation
-When you want to start or build for the first time, you have to install alle required node packages in the root folder of the repository.
+When you want to start or build for the first time, you have to install all required node packages in the root folder of the repository.
 
 ```
 $ npm install
