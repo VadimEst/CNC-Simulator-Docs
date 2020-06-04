@@ -49,4 +49,4 @@ To deploy the changes to the [live site](https://docs.cnc.timon.cloud/) push you
 
 ### Contribute to the docs
 
-To contribute to the docs, just edit or create a Markdown file in the `/docs` folder. To add a new site to the sidebar, edit `sidebar.js`.
+To contribute to the docs, just edit or create a Markdown file in the `/docs` folder. To add a new site to the sidebar, edit `sidebar.js`. Images are stored in `/static/img`folder.
