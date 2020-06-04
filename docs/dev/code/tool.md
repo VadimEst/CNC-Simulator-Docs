@@ -1,7 +1,7 @@
 ---
 id: tool
-title: Tool
-sidebar_label: Tool
+title: "Class: Tool"
+sidebar_label: "Class: Tool"
 ---
 
 :::info

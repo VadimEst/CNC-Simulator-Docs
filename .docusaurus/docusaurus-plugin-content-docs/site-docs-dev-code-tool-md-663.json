@@ -1,18 +1,18 @@
 {
   "id": "dev/code/tool",
-  "title": "Tool",
+  "title": "Class: Tool",
   "description": "@package de.timonwei.cnc.Tools",
   "source": "@site/docs/dev/code/tool.md",
   "permalink": "/docs/dev/code/tool",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/tool.md",
-  "sidebar_label": "Tool",
+  "sidebar_label": "Class: Tool",
   "sidebar": "devSidebar",
   "previous": {
     "title": "Libraries",
     "permalink": "/docs/dev/libraries"
   },
   "next": {
-    "title": "Vector2",
+    "title": "Class: Vector2",
     "permalink": "/docs/dev/code/vector2"
   }
 }

@@ -67,12 +67,12 @@
         "items": [
           {
             "type": "link",
-            "label": "Tool",
+            "label": "Class: Tool",
             "href": "/docs/dev/code/tool"
           },
           {
             "type": "link",
-            "label": "Vector2",
+            "label": "Class: Vector2",
             "href": "/docs/dev/code/vector2"
           }
         ]

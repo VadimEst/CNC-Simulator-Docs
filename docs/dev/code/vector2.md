@@ -1,7 +1,7 @@
 ---
 id: vector2
-title: Vector2
-sidebar_label: Vector2
+title: "Class: Vector2"
+sidebar_label: "Class: Vector2"
 ---
 
 :::info
