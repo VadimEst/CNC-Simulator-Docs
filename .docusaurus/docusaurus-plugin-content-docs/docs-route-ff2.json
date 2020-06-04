@@ -37,7 +37,7 @@
       },
       {
         "type": "category",
-        "label": "Scope",
+        "label": "General Setup",
         "items": [
           {
             "type": "link",
