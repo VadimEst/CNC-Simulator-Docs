@@ -14,21 +14,21 @@ sidebar_label: Scoping Document
 
 ## Commands
 
-### Execution of single commands**
+### Execution of single commands
   - Automatic counting of commands
   - Checking a command before execution (checking the following command while the first is being executed)
-### Execution of multiple commands**
+### Execution of multiple commands
   - Manual counting of the commands by the user
   - Checking the whole command set before the first execution
   - Input? Textarea/Import via JSON/XML
-### Possibility to pause current command or cancel command set**
-### G-Commands (Way-functions):**
+### Possibility to pause current command or cancel command set
+### G-Commands (Way-functions):
   - G00: Verfahrbewegung im Eilgang (only without drilling/milling possible)
   - G01: straight (linear) Interpolation
   - G02: feed with circular arc, clockwise (circle Interpolation)
   - G03: feed with circular arc, anticlockwise
   - G28: return to HOME position
-### M-Commands (Control-functions):**
+### M-Commands (Control-functions):
   - M00: programme stop (spindle, coolant, Vorschub aus)
   - M02: programme end
   - M03: spindle on: clockwise (right)
