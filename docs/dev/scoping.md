@@ -4,51 +4,51 @@ title: Scoping
 sidebar_label: Scoping Document
 ---
 
-## Grafische Oberfläche (in Java FX)
+## Graphical interface (in Java FX)
 
-- Arbeitsfläche GRAU
-- Bohrer/Fräskopf ROT
-- Gefräste Fläche SCHWARZ
-- Home GRÜN
-- Aktuelle Position, Spindelstatus (An/Aus + Drehrichtung), Kühlmittelstatus, Geschwindigkeit
+- Workspace GREY
+- Drill/mortising machine RED
+- Milled area BLACK
+- Home GREEN
+- Current Position, spindle status (On/Off + sense of rotation), coolant status, speed
 
-## Befehle
+## Commands
 
-### Ausführen einzelner Befehle
-  - Automatische Nummerierung der Befehle
-  - Prüfung eines Befehls vor der Ausführung (Prüfung des Folgebefehls während dem Fräsvorgang)
-### Ausführen mehrerer Befehle
-  - Manuelle Nummerierung der Befehle durch Benutzer
-  - Prüfung des gesamten Befehlssatzes vor der ersten Ausführung
-  - Eingabemöglichkeit? àTextfeld/Import via JSON/XML
-### Möglichkeit aktuellen Befehl zu pausieren oder Befehlsabarbeitung abzubrechen
-### G-Befehle (Wegfunktionen):
-  - G00: Verfahrbewegung im Eilgang (nur ohne Bohren/Fräsen möglich)
-  - G01: Geraden (Linear) Interpolation
-  - G02: Vorschub mit Kreisbogen, im Uhrzeigersinn (Kreis Interpolation)
-  - G03: Vorschub mit Kreisbogen, gegen den Uhrzeigersinn
-  - G28: HOME Position anfahren
-### M-Befehle (Schaltfunktionen):
-  - M00: Programmhalt (Spindel, Kühlmittel, Vorschub aus)
-  - M02: Programm Ende
-  - M03: Spindel Ein: Im Uhrzeigersinn (Rechtslauf)
-  - M04: Spindel Ein: Gegen den Uhrzeigersinn (Linkslauf)
-  - M05: Spindel Stopp
-  - M08: Kühlmittel Ein
-  - M09: Kühlmittel Aus
-  - M13: Spindel Ein, Rechtslauf und Kühlmittel Ein
-  - M14: Spindel Ein, Linkslauf und Kühlmittel Ein
+### Execution of single commands**
+  - Automatic counting of commands
+  - Checking a command before execution (checking the following command while the first is being executed)
+### Execution of multiple commands**
+  - Manual counting of the commands by the user
+  - Checking the whole command set before the first execution
+  - Input? Textarea/Import via JSON/XML
+### Possibility to pause current command or cancel command set**
+### G-Commands (Way-functions):**
+  - G00: Verfahrbewegung im Eilgang (only without drilling/milling possible)
+  - G01: straight (linear) Interpolation
+  - G02: feed with circular arc, clockwise (circle Interpolation)
+  - G03: feed with circular arc, anticlockwise
+  - G28: return to HOME position
+### M-Commands (Control-functions):**
+  - M00: programme stop (spindle, coolant, Vorschub aus)
+  - M02: programme end
+  - M03: spindle on: clockwise (right)
+  - M04: spindle on: anticlockwise (left)
+  - M05: spindle stop
+  - M08: coolant on
+  - M09: coolant off
+  - M13: spindle on, clockwise and coolant on
+  - M14: spindle on, anticlockwise and coolant on
 
-## Daten
+## Data
 
-- Arbeitsfläche: 1400mm x 1050mm
-- HOME-Position bei 0/0
-- Schnittgeschwindigkeit:
-  - Ungekühlt 2m/min
-  - Gekühlt 3m/min
-- Fahrgeschwindigkeit: 4-8m/min
-- Werkzeugdurchmesser: 15mm
-- Gewicht: 89kg ohne Werkzeug
+- Workspace: 1400mm x 1050mm
+- HOME-position at 0/0
+- Cutting speed:
+  - Without coolant 2m/min
+  - With coolant 3m/min
+- Moving speed: 4-8m/min
+- Tool diameter: 15mm
+- weight: 89kg without tool
 
 ## Programm Taschenkontur
 
@@ -61,26 +61,26 @@ sidebar_label: Scoping Document
 - N70 G28
 - N80 M00
 
-## Einstellungen der Fräsmaschine übe reine lokale Datei (XML oder JSON)
+## Settings of the mortising machine with a local file (XML or JSON)
 
-- Schnittgeschwindigkeit (mit/ohne Kühlung)
-- HOME-Position
-- Farben der Oberflächenelemente (siehe Grafische Oberfläche)
+- Cutting Speed (with/without coolant)
+- HOME-position
+- Colour
 
-## Abgrenzung
+## Enclosing
 
-- Fokus auf 2D
-- 5/34 Wegfunktionen
-- 5(9)/21 Schaltfunktionen
+- Focus on 2D
+- 5/34 Way-functions
+- 5(9)/21 Control-functions
 
-## Dokumentation
+## Documentation
 
-- Quelltextsignatur mit Zuordnung der Leistung jedes Studierenden je Methode
-- Entwicklerdokument (inkl. UML-Klassendiagramm)
-- Anwenderdokumentation (inkl. Ausschnitten aus der Anwendung)
+- Source text signature (Who did what)
+- Developer documentation (incl. UML-classdiagramm)
+- User documentation (incl. screenshots)
 
-## Abgabe
+## Handing in
 
-- Quellcode (gemäß Anforderungen)
-- Dokumentation
-- Programm als Paket / mit Installationsassistent
+- Source code (according to demands)
+- Documentation
+- Programme as package / installation assist
