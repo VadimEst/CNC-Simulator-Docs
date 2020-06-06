@@ -22,13 +22,13 @@ sidebar_label: Scoping Document
   - Checking the whole command set before the first execution
   - Input? Textarea/Import via JSON/XML
 ### Possibility to pause current command or cancel command set
-### G-Commands (Way-functions):
+### G-Commands (Way-functions)
   - G00: Verfahrbewegung im Eilgang (only without drilling/milling possible)
   - G01: straight (linear) Interpolation
   - G02: feed with circular arc, clockwise (circle Interpolation)
   - G03: feed with circular arc, anticlockwise
   - G28: return to HOME position
-### M-Commands (Control-functions):
+### M-Commands (Control-functions)
   - M00: programme stop (spindle, coolant, Vorschub aus)
   - M02: programme end
   - M03: spindle on: clockwise (right)
