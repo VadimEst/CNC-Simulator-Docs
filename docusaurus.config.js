@@ -3,7 +3,7 @@ module.exports = {
     tagline: 'Guide how to use the CNC Simulator',
     url: 'https://docs.cnc.timon.cloud',
     baseUrl: '/',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/icon.png',
     organizationName: 'timonweide', // Usually your GitHub org/user name.
     projectName: 'CNC-Simulator', // Usually your repo name.
     themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
             title: 'CNC Simulator Documentation',
             logo: {
                 alt: 'CNC Simulator',
-                src: 'img/logo.svg',
+                src: 'img/icon.svg',
             },
             links: [{
                     to: 'docs/user/overview/',

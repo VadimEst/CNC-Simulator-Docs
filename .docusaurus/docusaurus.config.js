@@ -7,7 +7,7 @@ export default {
       "title": "CNC Simulator Documentation",
       "logo": {
         "alt": "CNC Simulator",
-        "src": "img/logo.svg"
+        "src": "img/icon.svg"
       },
       "links": [
         {
@@ -96,7 +96,7 @@ export default {
   "tagline": "Guide how to use the CNC Simulator",
   "url": "https://docs.cnc.timon.cloud",
   "baseUrl": "/",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/icon.png",
   "organizationName": "timonweide",
   "projectName": "CNC-Simulator",
   "presets": [
