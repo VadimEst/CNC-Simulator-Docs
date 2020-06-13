@@ -67,6 +67,11 @@
         "items": [
           {
             "type": "link",
+            "label": "Class: Program Parser",
+            "href": "/docs/dev/code/programparser"
+          },
+          {
+            "type": "link",
             "label": "Class: Tool",
             "href": "/docs/dev/code/tool"
           },
@@ -81,6 +86,7 @@
   },
   "permalinkToSidebar": {
     "/docs/dev/architecture": "devSidebar",
+    "/docs/dev/code/programparser": "devSidebar",
     "/docs/dev/code/tool": "devSidebar",
     "/docs/dev/code/vector2": "devSidebar",
     "/docs/dev/contribute": "devSidebar",

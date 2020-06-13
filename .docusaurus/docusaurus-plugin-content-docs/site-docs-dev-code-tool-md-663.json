@@ -8,8 +8,8 @@
   "sidebar_label": "Class: Tool",
   "sidebar": "devSidebar",
   "previous": {
-    "title": "Libraries",
-    "permalink": "/docs/dev/libraries"
+    "title": "Program Parser",
+    "permalink": "/docs/dev/code/programparser"
   },
   "next": {
     "title": "Class: Vector2",

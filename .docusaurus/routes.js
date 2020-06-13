@@ -22,6 +22,12 @@ export default [
   
 },
 {
+  path: '/docs/dev/code/programparser',
+  component: ComponentCreator('/docs/dev/code/programparser'),
+  exact: true,
+  
+},
+{
   path: '/docs/dev/code/tool',
   component: ComponentCreator('/docs/dev/code/tool'),
   exact: true,

@@ -1,4 +1,5 @@
 export default {
+  '167a064c': [() => import(/* webpackChunkName: '167a064c' */ "@site/docs/dev/code/programparser.md"), "@site/docs/dev/code/programparser.md", require.resolveWeak("@site/docs/dev/code/programparser.md")],
   '17896441': [() => import(/* webpackChunkName: '17896441' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
   '20ac7829': [() => import(/* webpackChunkName: '20ac7829' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],
