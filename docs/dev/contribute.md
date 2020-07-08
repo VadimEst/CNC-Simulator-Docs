@@ -10,7 +10,11 @@ The project repository is released on [GitHub.com](https://github.com/timonweide
 
 ## Code contribution
 
-To contribute just clone or fork the repository to your local machine and start developing. The used IDE is [IntelliJ](https://www.jetbrains.com/idea/) but it's possible to use other IDEs instead (for example [Eclipse](https://www.eclipse.org)). To get an Eclipse specific project file use the `eclipse_project.zip` file in the repository. The latest project version can be obtained by contacting [@timonweide](mailto:mail@timonwei.de). Information on the used libraries can be found under [Libraries](libraries)
+To contribute just clone or fork the repository to your local machine and start developing. You can use [IntelliJ](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org). Information on the used libraries can be found under [Libraries](libraries)
+
+### Run from IDE
+
+The project is based on Maven. To run the project use your IDE or Maven CLI and run mvn install, when running the first time. To start the application run mvn clean javafx:run
 
 ---
 
