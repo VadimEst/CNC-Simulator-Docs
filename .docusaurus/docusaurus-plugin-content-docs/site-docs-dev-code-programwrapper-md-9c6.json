@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/programwrapper",
+  "title": "ProgramWrapper",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs\\dev\\code\\programwrapper.md",
+  "permalink": "/docs/dev/code/programwrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/programwrapper.md",
+  "sidebar_label": "ProgramWrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "LogEntry",
+    "permalink": "/docs/dev/code/logentry"
+  },
+  "next": {
+    "title": "SettingsWrapper",
+    "permalink": "/docs/dev/code/settingswrapper"
+  }
+}

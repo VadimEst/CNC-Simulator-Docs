@@ -11,7 +11,7 @@ module.exports = {
             title: 'CNC Simulator Documentation',
             logo: {
                 alt: 'CNC Simulator',
-                src: 'img/icon.svg',
+                src: 'img/icon.png',
             },
             links: [{
                     to: 'docs/user/overview/',

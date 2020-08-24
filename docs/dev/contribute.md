@@ -10,17 +10,22 @@ The project repository is released on [GitHub.com](https://github.com/timonweide
 
 ## Code contribution
 
-To contribute just clone or fork the repository to your local machine and start developing. You can use [IntelliJ](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org). Information on the used libraries can be found under [Libraries](libraries)
+To contribute just clone or fork the repository to your local machine and start developing. You can use [IntelliJ](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org) or any other Java IDE that supports [Maven](https://maven.apache.org/). Information on the used libraries can be found under [Libraries](libraries)
 
 ### Run from IDE
 
-The project is based on Maven. To run the project use your IDE or Maven CLI and run mvn install, when running the first time. To start the application run mvn clean javafx:run
+The project is based on [Maven](https://maven.apache.org/). To run the project use your IDE or Maven CLI execute javafx:run. The command will download all the required dependencies defined in the `pom.xml`.
+
+```
+$ mvn clean
+$ mvn javafx:run
+```
 
 ---
 
 ## Contribute to the Documentation
 
-This documentation is open source, too. So you can contribute and share any changes you made in the project for other users. The documentation repository can be found [here](https://github.com/timonweide/CNC-Simulator-Docs).
+This documentation is open source, too. You can contribute and share any changes you made in the project for other users. The documentation repository can be found [here](https://github.com/timonweide/CNC-Simulator-Docs).
 
 ### Installation
 When you want to start or build for the first time, you have to install all required node packages in the root folder of the repository.
@@ -35,7 +40,7 @@ $ npm install
 $ npm start
 ```
 
-This command starts a local development server and open up a browser window if it's executed in the root folder of the repository. Most changes are reflected live without having to restart the server. The local server can be reached by opening localhost:3000 in browser.
+This command starts a local development server and open up a browser window if it's executed in the root folder of the repository. Most changes are reflected live without having to restart the server. The local server can be reached by opening [localhost:3000](http://localhost:3000) in browser.
 
 To stop the local server use CTRL + C in shell.
 

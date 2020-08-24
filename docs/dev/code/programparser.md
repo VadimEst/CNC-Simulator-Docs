@@ -1,7 +1,7 @@
 ---
 id: programparser
 title: Program Parser
-sidebar_label: "Class: Program Parser"
+sidebar_label: "Program Parser"
 ---
 
 :::info

@@ -4,4 +4,6 @@ title: User Interface Concept
 sidebar_label: UI Concept
 ---
 
-tbd
+![First Draft](img/first-draft.png "First Draft")
+
+![Final Draft](img/final-draft.png "Final Draft")

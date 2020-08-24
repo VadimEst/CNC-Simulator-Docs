@@ -1,0 +1,18 @@
+{
+  "id": "dev/ui-concept",
+  "title": "User Interface Concept",
+  "description": "!First Draft",
+  "source": "@site/docs\\dev\\ui-concept.md",
+  "permalink": "/docs/dev/ui-concept",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/ui-concept.md",
+  "sidebar_label": "UI Concept",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/dev/architecture"
+  },
+  "next": {
+    "title": "Libraries",
+    "permalink": "/docs/dev/libraries"
+  }
+}

@@ -63,22 +63,272 @@
       },
       {
         "type": "category",
-        "label": "Code Documentation",
+        "label": "cnc.service",
         "items": [
           {
             "type": "link",
-            "label": "Class: Program Parser",
+            "label": "Program Parser",
             "href": "/docs/dev/code/programparser"
           },
           {
             "type": "link",
-            "label": "Class: Tool",
-            "href": "/docs/dev/code/tool"
+            "label": "Logger",
+            "href": "/docs/dev/code/logger"
           },
           {
             "type": "link",
-            "label": "Class: Vector2",
+            "label": "Program Parser",
+            "href": "/docs/dev/code/programparser"
+          },
+          {
+            "type": "link",
+            "label": "Settings",
+            "href": "/docs/dev/code/settings"
+          },
+          {
+            "type": "link",
+            "label": "SettingsParser",
+            "href": "/docs/dev/code/settingsparser"
+          },
+          {
+            "type": "link",
+            "label": "TerminalReader",
+            "href": "/docs/dev/code/terminalreader"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.service.exceptions",
+        "items": [
+          {
+            "type": "link",
+            "label": "MillOutOfBoundsException",
+            "href": "/docs/dev/code/milloutofboundsexception"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.tools",
+        "items": [
+          {
+            "type": "link",
+            "label": "Tool",
+            "href": "/docs/dev/code/tool"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.ui",
+        "items": [
+          {
+            "type": "link",
+            "label": "SettingsPopover",
+            "href": "/docs/dev/code/settingspopover"
+          },
+          {
+            "type": "link",
+            "label": "UserInterface",
+            "href": "/docs/dev/code/userinterface"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.ui.parts",
+        "items": [
+          {
+            "type": "link",
+            "label": "UI_Left",
+            "href": "/docs/dev/code/ui_left"
+          },
+          {
+            "type": "link",
+            "label": "UI_Right",
+            "href": "/docs/dev/code/ui_right"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.utility",
+        "items": [
+          {
+            "type": "link",
+            "label": "IdleTimer",
+            "href": "/docs/dev/code/idletimer"
+          },
+          {
+            "type": "link",
+            "label": "MillPosition",
+            "href": "/docs/dev/code/millposition"
+          },
+          {
+            "type": "link",
+            "label": "MillTimer",
+            "href": "/docs/dev/code/milltimer"
+          },
+          {
+            "type": "link",
+            "label": "Vector2",
             "href": "/docs/dev/code/vector2"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.utility.wrapper",
+        "items": [
+          {
+            "type": "link",
+            "label": "ColorWrapper",
+            "href": "/docs/dev/code/colorwrapper"
+          },
+          {
+            "type": "link",
+            "label": "CommandParameterWrapper",
+            "href": "/docs/dev/code/commandparameterswrapper"
+          },
+          {
+            "type": "link",
+            "label": "CommandWrapper",
+            "href": "/docs/dev/code/commandwrapper"
+          },
+          {
+            "type": "link",
+            "label": "LogEntry",
+            "href": "/docs/dev/code/logentry"
+          },
+          {
+            "type": "link",
+            "label": "ProgramWrapper",
+            "href": "/docs/dev/code/programwrapper"
+          },
+          {
+            "type": "link",
+            "label": "SettingsWrapper",
+            "href": "/docs/dev/code/settingswrapper"
+          },
+          {
+            "type": "link",
+            "label": "Vector2Wrapper",
+            "href": "/docs/dev/code/vector2wrapper"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.workspace",
+        "items": [
+          {
+            "type": "link",
+            "label": "Mill",
+            "href": "/docs/dev/code/mill"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.workspace.commands",
+        "items": [
+          {
+            "type": "link",
+            "label": "CommandCoordinates",
+            "href": "/docs/dev/code/commandcoordinates"
+          },
+          {
+            "type": "link",
+            "label": "CommandTable",
+            "href": "/docs/dev/code/commandtable"
+          },
+          {
+            "type": "link",
+            "label": "MillCommand",
+            "href": "/docs/dev/code/millcommand"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.workspace.commands.g",
+        "items": [
+          {
+            "type": "link",
+            "label": "G00",
+            "href": "/docs/dev/code/g00"
+          },
+          {
+            "type": "link",
+            "label": "G01",
+            "href": "/docs/dev/code/g01"
+          },
+          {
+            "type": "link",
+            "label": "G02",
+            "href": "/docs/dev/code/g02"
+          },
+          {
+            "type": "link",
+            "label": "G03",
+            "href": "/docs/dev/code/g03"
+          },
+          {
+            "type": "link",
+            "label": "G28",
+            "href": "/docs/dev/code/g28"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "cnc.workspace.commands.m",
+        "items": [
+          {
+            "type": "link",
+            "label": "M00",
+            "href": "/docs/dev/code/m00"
+          },
+          {
+            "type": "link",
+            "label": "M02",
+            "href": "/docs/dev/code/m02"
+          },
+          {
+            "type": "link",
+            "label": "M03",
+            "href": "/docs/dev/code/m03"
+          },
+          {
+            "type": "link",
+            "label": "M04",
+            "href": "/docs/dev/code/m04"
+          },
+          {
+            "type": "link",
+            "label": "M05",
+            "href": "/docs/dev/code/m05"
+          },
+          {
+            "type": "link",
+            "label": "M08",
+            "href": "/docs/dev/code/m08"
+          },
+          {
+            "type": "link",
+            "label": "M09",
+            "href": "/docs/dev/code/m09"
+          },
+          {
+            "type": "link",
+            "label": "M13",
+            "href": "/docs/dev/code/m13"
+          },
+          {
+            "type": "link",
+            "label": "M14",
+            "href": "/docs/dev/code/m14"
           }
         ]
       }
@@ -86,9 +336,46 @@
   },
   "permalinkToSidebar": {
     "/docs/dev/architecture": "devSidebar",
+    "/docs/dev/code/colorwrapper": "devSidebar",
+    "/docs/dev/code/commandcoordinates": "devSidebar",
+    "/docs/dev/code/commandparameterswrapper": "devSidebar",
+    "/docs/dev/code/commandtable": "devSidebar",
+    "/docs/dev/code/commandwrapper": "devSidebar",
+    "/docs/dev/code/g00": "devSidebar",
+    "/docs/dev/code/g01": "devSidebar",
+    "/docs/dev/code/g02": "devSidebar",
+    "/docs/dev/code/g03": "devSidebar",
+    "/docs/dev/code/g28": "devSidebar",
+    "/docs/dev/code/idletimer": "devSidebar",
+    "/docs/dev/code/logentry": "devSidebar",
+    "/docs/dev/code/logger": "devSidebar",
+    "/docs/dev/code/m00": "devSidebar",
+    "/docs/dev/code/m02": "devSidebar",
+    "/docs/dev/code/m03": "devSidebar",
+    "/docs/dev/code/m04": "devSidebar",
+    "/docs/dev/code/m05": "devSidebar",
+    "/docs/dev/code/m08": "devSidebar",
+    "/docs/dev/code/m09": "devSidebar",
+    "/docs/dev/code/m13": "devSidebar",
+    "/docs/dev/code/m14": "devSidebar",
+    "/docs/dev/code/mill": "devSidebar",
+    "/docs/dev/code/millcommand": "devSidebar",
+    "/docs/dev/code/milloutofboundsexception": "devSidebar",
+    "/docs/dev/code/millposition": "devSidebar",
+    "/docs/dev/code/milltimer": "devSidebar",
     "/docs/dev/code/programparser": "devSidebar",
+    "/docs/dev/code/programwrapper": "devSidebar",
+    "/docs/dev/code/settings": "devSidebar",
+    "/docs/dev/code/settingsparser": "devSidebar",
+    "/docs/dev/code/settingspopover": "devSidebar",
+    "/docs/dev/code/settingswrapper": "devSidebar",
+    "/docs/dev/code/terminalreader": "devSidebar",
     "/docs/dev/code/tool": "devSidebar",
+    "/docs/dev/code/ui_left": "devSidebar",
+    "/docs/dev/code/ui_right": "devSidebar",
+    "/docs/dev/code/userinterface": "devSidebar",
     "/docs/dev/code/vector2": "devSidebar",
+    "/docs/dev/code/vector2wrapper": "devSidebar",
     "/docs/dev/contribute": "devSidebar",
     "/docs/dev/getting-started": "devSidebar",
     "/docs/dev/libraries": "devSidebar",

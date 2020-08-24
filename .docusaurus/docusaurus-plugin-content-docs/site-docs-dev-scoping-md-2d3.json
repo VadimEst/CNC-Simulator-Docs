@@ -1,0 +1,18 @@
+{
+  "id": "dev/scoping",
+  "title": "Scoping",
+  "description": "Graphical interface (in Java FX)",
+  "source": "@site/docs\\dev\\scoping.md",
+  "permalink": "/docs/dev/scoping",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/scoping.md",
+  "sidebar_label": "Scoping Document",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/dev/getting-started"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/dev/architecture"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/m05",
+  "title": "M05",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs\\dev\\code\\m05.md",
+  "permalink": "/docs/dev/code/m05",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/m05.md",
+  "sidebar_label": "M05",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "M04",
+    "permalink": "/docs/dev/code/m04"
+  },
+  "next": {
+    "title": "M08",
+    "permalink": "/docs/dev/code/m08"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dev/code/tool",
+  "title": "Tool",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs\\dev\\code\\logger - Copy.md",
+  "permalink": "/docs/dev/code/tool",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/logger - Copy.md",
+  "sidebar_label": "Tool",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Program Parser",
+    "permalink": "/docs/dev/code/programparser"
+  }
+}

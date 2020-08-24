@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    //imageUrl: '',
     description: (
       <>
         This CNC Simulator provides a easy to use interface.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>Real simulation</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    //imageUrl: '',
     description: (
       <>
         Simulate your CNC process as if it is done with a real cnc machine.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Compatibility</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    //imageUrl: '',
     description: (
       <>
         The CNC Simulator is able to use standardized XML files to simulate your custom process.

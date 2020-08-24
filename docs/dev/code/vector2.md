@@ -1,11 +1,11 @@
 ---
 id: vector2
-title: "Class: Vector2"
-sidebar_label: "Class: Vector2"
+title: "Vector2"
+sidebar_label: "Vector2"
 ---
 
 :::info
-@package de.timonwei.cnc.Utility
+@package de.timonwei.cnc.utility
 :::
 
 The class **Vector2** provides the functionality of a two dimensional vector, e.g. to store positions.
@@ -41,3 +41,15 @@ The class **Vector2** provides the functionality of a two dimensional vector, e.
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
 | `void`       | **setY**       | y:float     | Sets the current y coordinate |
+
+
+### toString()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **toString**      |             | Returns the value of the Vector2 as a String |
+
+
+### abs()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `double`       | **abs**      |             | Calculates the length of the Vector2 |

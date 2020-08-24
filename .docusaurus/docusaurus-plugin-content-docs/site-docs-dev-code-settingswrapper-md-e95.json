@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/settingswrapper",
+  "title": "SettingsWrapper",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs\\dev\\code\\settingswrapper.md",
+  "permalink": "/docs/dev/code/settingswrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/settingswrapper.md",
+  "sidebar_label": "SettingsWrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "ProgramWrapper",
+    "permalink": "/docs/dev/code/programwrapper"
+  },
+  "next": {
+    "title": "Vector2Wrapper",
+    "permalink": "/docs/dev/code/vector2wrapper"
+  }
+}

@@ -7,7 +7,7 @@ export default {
       "title": "CNC Simulator Documentation",
       "logo": {
         "alt": "CNC Simulator",
-        "src": "img/icon.svg"
+        "src": "img/icon.png"
       },
       "links": [
         {
@@ -105,7 +105,7 @@ export default {
       {
         "docs": {
           "homePageId": "docs/user/",
-          "sidebarPath": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/sidebars.js",
+          "sidebarPath": "C:\\Users\\i517805\\Documents\\GitHub\\CNC-Simulator-Docs\\sidebars.js",
           "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/"
         },
         "blog": {
@@ -113,7 +113,7 @@ export default {
           "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/src/css/custom.css"
+          "customCss": "C:\\Users\\i517805\\Documents\\GitHub\\CNC-Simulator-Docs\\src\\css\\custom.css"
         }
       }
     ]

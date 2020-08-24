@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/vector2wrapper",
+  "title": "Vector2Wrapper",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs\\dev\\code\\vector2wrapper.md",
+  "permalink": "/docs/dev/code/vector2wrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/vector2wrapper.md",
+  "sidebar_label": "Vector2Wrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "SettingsWrapper",
+    "permalink": "/docs/dev/code/settingswrapper"
+  },
+  "next": {
+    "title": "Mill",
+    "permalink": "/docs/dev/code/mill"
+  }
+}

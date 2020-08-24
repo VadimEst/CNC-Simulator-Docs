@@ -9,4 +9,14 @@ The project uses several libraries to extend the functionality of the Java Delop
 
 ## Java FX
 
-The project uses Java FX 14. [https://openjfx.io](https://openjfx.io)
+The project uses [Java FX 14](https://openjfx.io) for the User Interface. 
+
+
+## Tiles FX
+
+To extend the functionality of Java FX, the project uses [Tiles FX](https://github.com/HanSolo/tilesfx) to improve the user experience and visualize data in a better way.
+
+
+## Jackson
+
+JSON files in the application are handled by [Jackson Databind](https://github.com/FasterXML/jackson-databind).
