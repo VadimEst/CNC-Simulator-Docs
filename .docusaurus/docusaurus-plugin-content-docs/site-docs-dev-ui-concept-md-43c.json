@@ -1,7 +1,7 @@
 {
   "id": "dev/ui-concept",
   "title": "User Interface Concept",
-  "description": "!First Draft",
+  "description": "UI Concept",
   "source": "@site/docs\\dev\\ui-concept.md",
   "permalink": "/docs/dev/ui-concept",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/ui-concept.md",
