@@ -4,6 +4,10 @@ title: User Interface Concept
 sidebar_label: UI Concept
 ---
 
-![First Draft](img/first-draft.png "First Draft")
+###UI Concept
 
-![Final Draft](img/final-draft.png "Final Draft")
+![First Concept Draft - V1](static/img/UI_Concept_V1.jpg "Concept V1 - First Draft")
+
+![Final Concept Draft V2](static/img/UI_Concept_V2.jpg "Concept V2 - Final Draft" )
+
+![Symbols and Colors](static/img/UI_Symbols.jpg "UI - Final Symbols and Colors" )
