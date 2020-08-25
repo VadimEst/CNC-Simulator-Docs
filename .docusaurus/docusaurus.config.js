@@ -26,6 +26,11 @@ export default {
           "href": "https://github.com/timonweide/cnc-simulator",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "href": "https://github.com/timonweide/CNC-Simulator/releases",
+          "label": "Download",
+          "position": "right"
         }
       ]
     },

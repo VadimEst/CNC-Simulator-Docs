@@ -30,6 +30,11 @@ module.exports = {
                     label: 'GitHub',
                     position: 'right',
                 },
+                {
+                    href: 'https://github.com/timonweide/CNC-Simulator/releases',
+                    label: 'Download',
+                    position: 'right',
+                },
             ],
         },
         footer: {
