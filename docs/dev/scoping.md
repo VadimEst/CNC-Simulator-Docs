@@ -55,7 +55,7 @@ sidebar_label: Scoping Document
 - N10 M03
 - N20 M08
 - N30 G01 X0 Y0
-- N40 G02 X0 Y0 I0 J5
+- N40 G02 X0 Y10 I0 J5
 - N50 G01 X10 Y10
 - N60 G02 X10 Y0 I0 J-5
 - N70 G28
