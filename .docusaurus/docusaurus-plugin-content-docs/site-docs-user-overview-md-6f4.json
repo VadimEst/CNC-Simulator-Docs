@@ -1,10 +1,14 @@
 {
   "id": "user/overview",
-  "title": "Style Guide",
-  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "title": "User Documentation",
+  "description": "This is the user documentation for the CNC Simulator project by Florian Koopmann, Yannik Pfrengle and Timon Weide.",
   "source": "@site/docs\\user\\overview.md",
   "permalink": "/docs/user/overview",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/overview.md",
-  "sidebar_label": "Style Guide",
-  "sidebar": "userSidebar"
+  "sidebar_label": "Overview",
+  "sidebar": "userSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/user/installation"
+  }
 }

@@ -298,6 +298,18 @@ export default [
   
 },
 {
+  path: '/docs/user/commands',
+  component: ComponentCreator('/docs/user/commands'),
+  exact: true,
+  
+},
+{
+  path: '/docs/user/installation',
+  component: ComponentCreator('/docs/user/installation'),
+  exact: true,
+  
+},
+{
   path: '/docs/user/overview',
   component: ComponentCreator('/docs/user/overview'),
   exact: true,

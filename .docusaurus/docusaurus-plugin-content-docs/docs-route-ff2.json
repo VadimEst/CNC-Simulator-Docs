@@ -7,8 +7,18 @@
         "items": [
           {
             "type": "link",
-            "label": "Style Guide",
+            "label": "Overview",
             "href": "/docs/user/overview"
+          },
+          {
+            "type": "link",
+            "label": "Installation",
+            "href": "/docs/user/installation"
+          },
+          {
+            "type": "link",
+            "label": "Commands",
+            "href": "/docs/user/commands"
           }
         ]
       }
@@ -382,6 +392,8 @@
     "/docs/dev/overview": "devSidebar",
     "/docs/dev/scoping": "devSidebar",
     "/docs/dev/ui-concept": "devSidebar",
+    "/docs/user/commands": "userSidebar",
+    "/docs/user/installation": "userSidebar",
     "/docs/user/overview": "userSidebar"
   }
 }

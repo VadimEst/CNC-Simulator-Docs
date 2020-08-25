@@ -1,0 +1,13 @@
+{
+  "id": "user/commands",
+  "title": "Commands",
+  "source": "@site/docs\\user\\commands.md",
+  "permalink": "/docs/user/commands",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/commands.md",
+  "sidebar_label": "Commands",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/user/installation"
+  }
+}
