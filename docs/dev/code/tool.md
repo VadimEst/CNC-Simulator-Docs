@@ -16,7 +16,7 @@ The abstract class **Tool** provides the basic structure required for using tool
 ### Tool(int width, int height)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **Tool**      |             | Creates an instance of Tool. |
 
 
 ### setMill(Mill mill)
