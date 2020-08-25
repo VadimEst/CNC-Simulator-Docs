@@ -65,10 +65,6 @@ module.exports = {
                             href: 'https://github.com/timonweide/CNC-Simulator/graphs/contributors',
                         },
                         {
-                            label: 'Feature Request',
-                            href: 'https://github.com/timonweide/CNC-Simulator/issues/new?assignees=&labels=&template=feature_request.md&title=',
-                        },
-                        {
                             label: 'Custom Feedback',
                             href: 'https://github.com/timonweide/CNC-Simulator/issues/new?assignees=&labels=&template=custom.md&title=',
                         },
