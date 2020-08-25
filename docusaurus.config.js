@@ -29,11 +29,13 @@ module.exports = {
                     href: 'https://github.com/timonweide/cnc-simulator',
                     label: 'GitHub',
                     position: 'right',
+                    target: '_blank',
                 },
                 {
                     href: 'https://github.com/timonweide/CNC-Simulator/releases',
                     label: 'Download',
                     position: 'right',
+                    target: '_blank',
                 },
             ],
         },
@@ -56,10 +58,12 @@ module.exports = {
                     items: [{
                             label: 'Ticket System',
                             href: 'https://github.com/timonweide/CNC-Simulator/issues',
+                            target: '_blank',
                         },
                         {
                             label: 'Create Ticket',
                             href: 'https://github.com/timonweide/CNC-Simulator/issues/new/choose',
+                            target: '_blank',
                         },
                     ],
                 },
@@ -68,10 +72,12 @@ module.exports = {
                     items: [{
                             label: 'Contributors',
                             href: 'https://github.com/timonweide/CNC-Simulator/graphs/contributors',
+                            target: '_blank',
                         },
                         {
                             label: 'Custom Feedback',
                             href: 'https://github.com/timonweide/CNC-Simulator/issues/new?assignees=&labels=&template=custom.md&title=',
+                            target: '_blank',
                         },
                     ],
                 },
@@ -80,10 +86,12 @@ module.exports = {
                     items: [{
                             label: 'Imprint',
                             to: 'https://timonwei.de/impressum/',
+                            target: '_blank',
                         },
                         {
                             label: 'Privacy Statement',
                             href: 'https://timonwei.de/datenschutzerklaerung/',
+                            target: '_blank',
                         },
                     ],
                 }
