@@ -4,12 +4,21 @@ title: Functionality
 sidebar_label: Functionality
 ---
 
-This is the user documentation for the CNC Simulator project by Florian Koopmann, Yannik Pfrengle and Timon Weide.
+To understand the program and it's functionalities we recommend you to read this page with all
+functions and user interface elements described.
 
----
+# User Interface Functions
 
-:::caution
+## Left Side Bar
 
-This project is not intended to be maintained after the goals defined in the [scoping document](/docs/dev/scoping) are fulfilled, because this project is part of the "Advanced Development" lecture of WWISCB19 at DHBW Mannheim. Functionality defined during the implementation will be added to the scoping document and will be tracked using [GitHub Issues](https://github.com/timonweide/CNC-Simulator/issues).
+### Import Program Button
 
-:::
+To import an existing program, you can click the 'Import Program' Button. A file chooser will appear and you can browse to your program file. It is mandatory the file to be a .json file. The standard directory is your documents folder for quick access. A dialog will appear on selecting a none .json file. 
+
+### Start Program Button
+
+To start your imported program press this button. It will automatically set your mill up and begin with the first command in the program.
+
+### Stop Program Button
+
+To stop / pause the program press this button. 
