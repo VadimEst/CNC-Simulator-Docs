@@ -5,7 +5,7 @@ sidebar_label: Functionality
 ---
 
 To understand the program and it's functionalities we recommend you to read this page with all
-functions and user interface elements described.
+functions and user interface elements described. The mill is divided into the mill itself and the spindle. The spindle is the drill head of the mill, which will cut the actual program. It has to be cooled.
 
 # User interface functions and window regions
 
@@ -42,3 +42,28 @@ The biggest section of the simulator is the workspace section in the middle. Her
 * Black: Milled Area
 
 ![Mill Workspace](/img/screenshot/workspace.png)
+
+## Right Side Section
+
+### Mill Position
+
+This tile displays the current mill position while a program is running. It is readable by interpreting the first number as x-coordinate and the second number as y-coordinate. 
+
+### Spindle Status
+
+This tile displays the current spindle status of the mill. The status can be:
+
+* stopped
+* right rotation (clockwise)
+* left rotation (anticlockwise)
+
+Furthermore, it is possible to read here, if the mill is currently rotating or not.
+
+### Spindle Temperature
+
+This tile displays the current spindle temperature. The temperature is fully simulated and updated live. There is a graph in the middle of the tile. Furthermore there is the actual temperature displayed as a number and a gauge indicator around the two mentioned indicators.
+
+### Spindle Speed
+
+This tile displays the current spindle speed. 
+
