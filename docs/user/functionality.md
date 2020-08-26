@@ -76,7 +76,7 @@ This tile displays the current coolant status. There are two symbols indicating 
 
 ### Settings Button
 
-This tile is the button to get to the settings dialog. By clicking the tile, the settings window opens. For further information about the settings, go to [Settings]https://docs.cnc.timon.cloud/docs/user/functionality/#settings)
+This tile is the button to get to the settings dialog. By clicking the tile, the settings window opens. For further information about the settings, go to [Settings](#settings)
 
 ### Command Table
 
@@ -86,7 +86,7 @@ This table logs the processed and currently processing commands. It sorts the co
 
 ![Command Terminal](/img/screenshot/terminal.png)
 
-This terminal is for manual command input to the simulator. By typing the in [Commands]https://docs.cnc.timon.cloud/docs/user/commands) explained commands correctly it is possible to manually control the mill and cut custom forms on the fly. It is also possible to insert commands into a running program to edit it. Furthermore, it is possible to pause and stop the mill in emergency situations like it is possible with the buttons. When typing an invalid or not existing command a dialog indicates this. It is mandatory to type in the commands correctly.
+This terminal is for manual command input to the simulator. By typing the in [Commands](#commands) explained commands correctly it is possible to manually control the mill and cut custom forms on the fly. It is also possible to insert commands into a running program to edit it. Furthermore, it is possible to pause and stop the mill in emergency situations like it is possible with the buttons. When typing an invalid or not existing command a dialog indicates this. It is mandatory to type in the commands correctly.
 
 ## Settings
 
