@@ -14,7 +14,7 @@ functions and user interface elements described. The mill is divided into the mi
 
 ### Import Program Button
 
-To import an existing program, you can click the 'Import Program' Button. A file chooser will appear and you can browse to your program file. It is mandatory the file to be a .json file. The standard directory is your documents folder for quick access. A dialog will appear on selecting a none .json file. 
+To import an existing program, press the 'Import Program' Button. A file chooser will appear and you can browse to your program file. It is mandatory the file to be a .json file. The standard directory is your documents folder for quick access. A dialog will appear on selecting a none .json file. 
 
 ### Start Program Button
 
@@ -90,3 +90,14 @@ This terminal is for manual command input to the simulator. By typing the in [Co
 
 ## Settings
 
+### Import Settings Button (Left Bar)
+
+To import an existing CNC-Simulator settings file press this button. A file chooser appears and makes it possible to select the settings file. If a wrong file is selected, a dialog notifies the error. 
+
+### Export Settings Button (Left Bar)
+
+### Save Settings Button (Left Bar)
+
+### Discard Settings Button (Left Bar)
+
+### Restore Default Settings Button(Left Bar)
