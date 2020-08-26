@@ -8,7 +8,7 @@ sidebar_label: "Tool"
 @package de.timonwei.cnc.tools
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
 
 
 ## Methods
