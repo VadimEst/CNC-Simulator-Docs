@@ -1,6 +1,6 @@
 module.exports = {
   userSidebar: {
-    'Project': ['user/overview', 'user/installation', 'user/commands'],
+    'Project': ['user/overview', 'user/installation', 'user/functionality', 'user/commands'],
   },
   devSidebar: {
     'Project': ['dev/overview', 'dev/contribute', 'dev/getting-started'],
