@@ -8,12 +8,17 @@ sidebar_label: "ColorWrapper"
 @package de.timonwei.cnc.tools
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class *ColorWrapper* provides a container for RGB-colors.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### ColorWrapper()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `void`       | **ColorWrapper**      |             | Creates an instance of ColorWrapper |
+
+### ColorWrapper(Color color)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **ColorWrapper**      |    color: Color         | Creates an instance of ColorWrapper |
