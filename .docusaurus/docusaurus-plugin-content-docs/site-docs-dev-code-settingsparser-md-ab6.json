@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/settingsparser",
+  "title": "SettingsParser",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs/dev/code/settingsparser.md",
+  "permalink": "/docs/dev/code/settingsparser",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/settingsparser.md",
+  "sidebar_label": "SettingsParser",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/dev/code/settings"
+  },
+  "next": {
+    "title": "TerminalReader",
+    "permalink": "/docs/dev/code/terminalreader"
+  }
+}

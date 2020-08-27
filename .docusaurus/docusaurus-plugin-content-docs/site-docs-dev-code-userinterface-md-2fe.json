@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/userinterface",
+  "title": "UserInterface",
+  "description": "@package de.timonwei.cnc.ui",
+  "source": "@site/docs/dev/code/userinterface.md",
+  "permalink": "/docs/dev/code/userinterface",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/userinterface.md",
+  "sidebar_label": "UserInterface",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "SettingsPopover",
+    "permalink": "/docs/dev/code/settingspopover"
+  },
+  "next": {
+    "title": "UI_Left",
+    "permalink": "/docs/dev/code/ui_left"
+  }
+}

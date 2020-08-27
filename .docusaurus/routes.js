@@ -304,6 +304,18 @@ export default [
   
 },
 {
+  path: '/docs/user/examples',
+  component: ComponentCreator('/docs/user/examples'),
+  exact: true,
+  
+},
+{
+  path: '/docs/user/functionality',
+  component: ComponentCreator('/docs/user/functionality'),
+  exact: true,
+  
+},
+{
   path: '/docs/user/installation',
   component: ComponentCreator('/docs/user/installation'),
   exact: true,

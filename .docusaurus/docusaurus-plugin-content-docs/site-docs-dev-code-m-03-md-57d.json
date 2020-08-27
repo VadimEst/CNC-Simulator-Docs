@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/m03",
+  "title": "M03",
+  "description": "@package de.timonwei.cnc.workspace.commands.m",
+  "source": "@site/docs/dev/code/m03.md",
+  "permalink": "/docs/dev/code/m03",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/m03.md",
+  "sidebar_label": "M03",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "M02",
+    "permalink": "/docs/dev/code/m02"
+  },
+  "next": {
+    "title": "M04",
+    "permalink": "/docs/dev/code/m04"
+  }
+}

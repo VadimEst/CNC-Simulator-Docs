@@ -1,0 +1,18 @@
+{
+  "id": "user/functionality",
+  "title": "Functionality",
+  "description": "To understand the program and it's functionalities we recommend you to read this page with all",
+  "source": "@site/docs/user/functionality.md",
+  "permalink": "/docs/user/functionality",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/functionality.md",
+  "sidebar_label": "Functionality",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/user/installation"
+  },
+  "next": {
+    "title": "Commands",
+    "permalink": "/docs/user/commands"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/settingspopover",
+  "title": "SettingsPopover",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs/dev/code/settingspopover.md",
+  "permalink": "/docs/dev/code/settingspopover",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/settingspopover.md",
+  "sidebar_label": "SettingsPopover",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Tool",
+    "permalink": "/docs/dev/code/tool"
+  },
+  "next": {
+    "title": "UserInterface",
+    "permalink": "/docs/dev/code/userinterface"
+  }
+}

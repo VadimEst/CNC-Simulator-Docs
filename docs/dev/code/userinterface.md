@@ -21,7 +21,7 @@ The public class **UserInterface** provides the basic structure for the UserInte
 ### resizeCanvas()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **resizeCanvas**      |             | Resizes the already existing Drawing Canvas or creates a new one if no Drawing Canvas exitst|
+| `void`       | **resizeCanvas**      |             | Resizes the already existing Drawing Canvas or creates a new one if no Drawing Canvas exist |
 
 ### createDrawingCanvas()
 | Return Type   | Method Name   | Parameters  | Description    |
@@ -31,7 +31,7 @@ The public class **UserInterface** provides the basic structure for the UserInte
 ### createScene()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| Scene       | **createScene**      |             | Creates and sets a new Scene |
+| `Scene`       | **createScene**      |             | Creates and sets a new Scene |
 
 ### importProgram()
 | Return Type   | Method Name   | Parameters  | Description    |
@@ -41,12 +41,12 @@ The public class **UserInterface** provides the basic structure for the UserInte
 ### updatePosition()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **updatePosition**      |    v: Vector2<Double>         | Updates the current position on the right side of the UI |
+| `void`       | **updatePosition**      |    v: Vector2<Double\>    | Updates the current position on the right side of the UI |
 
 ### updateSpindleState(Tool.SpindleState state)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **updateSpindleState**      |    state: Tool.SpindleState        | Updates the spindle status on the right side of the UI |
+| `void`       | **updateSpindleState**      |    state: Tool.SpindleState   | Updates the spindle status on the right side of the UI |
 
 ### updateTemperatureCoolantState()
 | Return Type   | Method Name   | Parameters  | Description    |
@@ -86,4 +86,4 @@ The public class **UserInterface** provides the basic structure for the UserInte
 ### addProcessedCommand(MillCommand processedCommand, String executionTime)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **addProcessedCommand**      |   processedCommand: MillCommand, executionTime: String        | Adds processed command with its execution time to the table |
+| `void`| **addProcessedCommand** | processedCommand: MillCommand, executionTime: String | Adds processed command with its execution time to the table |

@@ -1,6 +1,6 @@
 {
   "/": {
-    "component": "component---site-src-pages-index-jsece-a18"
+    "component": "component---site-src-pages-index-jsc-4-f-f99"
   },
   "/docs/:route": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -8,202 +8,210 @@
   },
   "/docs/dev/architecture": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-architectureaa-0-004"
+    "content": "content---docs-dev-architecturee-34-c61"
   },
   "/docs/dev/code/colorwrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-colorwrapper-471-0eb"
+    "content": "content---docs-dev-code-colorwrapper-894-7ea"
   },
   "/docs/dev/code/commandcoordinates": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-commandcoordinates-60-e-81b"
+    "content": "content---docs-dev-code-commandcoordinatesa-71-b5f"
   },
   "/docs/dev/code/commandparameterswrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-commandparameterswrapperdda-7a6"
+    "content": "content---docs-dev-code-commandparameterswrapper-476-2bb"
   },
   "/docs/dev/code/commandtable": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-commandtable-35-b-487"
+    "content": "content---docs-dev-code-commandtable-931-568"
   },
   "/docs/dev/code/commandwrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-commandwrapper-8-bb-36c"
+    "content": "content---docs-dev-code-commandwrapper-119-047"
   },
   "/docs/dev/code/g00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-g-004-f-9-31a"
+    "content": "content---docs-dev-code-g-00863-dc5"
   },
   "/docs/dev/code/g01": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-g-01-f-1-a-894"
+    "content": "content---docs-dev-code-g-017-b-8-de3"
   },
   "/docs/dev/code/g02": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-g-02-b-3-a-158"
+    "content": "content---docs-dev-code-g-02-f-84-6e5"
   },
   "/docs/dev/code/g03": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-g-03-bc-1-4f1"
+    "content": "content---docs-dev-code-g-03-fdc-9cf"
   },
   "/docs/dev/code/g28": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-g-28157-9ad"
+    "content": "content---docs-dev-code-g-282-d-8-10e"
   },
   "/docs/dev/code/idletimer": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-idletimer-604-639"
+    "content": "content---docs-dev-code-idletimerd-45-581"
   },
   "/docs/dev/code/logentry": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-logentry-92-d-27f"
+    "content": "content---docs-dev-code-logentryeda-8d9"
   },
   "/docs/dev/code/logger": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-logger-6-bc-4c0"
+    "content": "content---docs-dev-code-logger-918-a36"
   },
   "/docs/dev/code/m00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-0012-d-653"
+    "content": "content---docs-dev-code-m-00630-bb6"
   },
   "/docs/dev/code/m02": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-021-a-8-5d9"
+    "content": "content---docs-dev-code-m-02-aab-209"
   },
   "/docs/dev/code/m03": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-0397-c-389"
+    "content": "content---docs-dev-code-m-0357-d-be6"
   },
   "/docs/dev/code/m04": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-04-ac-9-670"
+    "content": "content---docs-dev-code-m-0493-c-f28"
   },
   "/docs/dev/code/m05": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-05-a-40-3a1"
+    "content": "content---docs-dev-code-m-05-b-8-d-b3d"
   },
   "/docs/dev/code/m08": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-08190-3d2"
+    "content": "content---docs-dev-code-m-082-ef-3c0"
   },
   "/docs/dev/code/m09": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-09385-d82"
+    "content": "content---docs-dev-code-m-09406-742"
   },
   "/docs/dev/code/m13": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-13-cf-8-236"
+    "content": "content---docs-dev-code-m-13-ac-7-052"
   },
   "/docs/dev/code/m14": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-m-148-ef-09c"
+    "content": "content---docs-dev-code-m-14-e-9-e-401"
   },
   "/docs/dev/code/mill": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-mill-044-37e"
+    "content": "content---docs-dev-code-millfe-8-dac"
   },
   "/docs/dev/code/millcommand": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-millcommand-231-f87"
+    "content": "content---docs-dev-code-millcommandc-8-c-fe0"
   },
   "/docs/dev/code/milloutofboundsexception": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-milloutofboundsexceptionfa-8-1f9"
+    "content": "content---docs-dev-code-milloutofboundsexceptioncbb-d61"
   },
   "/docs/dev/code/millposition": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-millposition-792-c46"
+    "content": "content---docs-dev-code-millposition-455-58b"
   },
   "/docs/dev/code/milltimer": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-milltimerd-51-068"
+    "content": "content---docs-dev-code-milltimerc-9-f-07b"
   },
   "/docs/dev/code/programparser": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-programparserb-9-c-769"
+    "content": "content---docs-dev-code-programparser-167-214"
   },
   "/docs/dev/code/programwrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-programwrapper-9-c-6-a04"
+    "content": "content---docs-dev-code-programwrapperdf-8-8f0"
   },
   "/docs/dev/code/settings": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-settings-16-b-c71"
+    "content": "content---docs-dev-code-settingsdcf-a0a"
   },
   "/docs/dev/code/settingsparser": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-settingsparser-885-8aa"
+    "content": "content---docs-dev-code-settingsparserab-6-a03"
   },
   "/docs/dev/code/settingspopover": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-settingspopover-308-ef6"
+    "content": "content---docs-dev-code-settingspopoverb-46-2f6"
   },
   "/docs/dev/code/settingswrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-settingswrappere-95-815"
+    "content": "content---docs-dev-code-settingswrapper-94-e-ffa"
   },
   "/docs/dev/code/terminalreader": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-terminalreaderedd-a9e"
+    "content": "content---docs-dev-code-terminalreader-01-c-6a8"
   },
   "/docs/dev/code/tool": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-tool-2-ba-00a"
+    "content": "content---docs-dev-code-tool-663-dc4"
   },
   "/docs/dev/code/ui_left": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-ui-left-819-a87"
+    "content": "content---docs-dev-code-ui-left-8-e-4-da8"
   },
   "/docs/dev/code/ui_right": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-ui-rightfca-dc1"
+    "content": "content---docs-dev-code-ui-rightf-3-d-916"
   },
   "/docs/dev/code/userinterface": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-userinterfaceb-5-e-364"
+    "content": "content---docs-dev-code-userinterface-2-fe-aa8"
   },
   "/docs/dev/code/vector2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-vector-2-edb-7f7"
+    "content": "content---docs-dev-code-vector-2-e-5-b-ea6"
   },
   "/docs/dev/code/vector2wrapper": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-code-vector-2-wrapper-714-5c1"
+    "content": "content---docs-dev-code-vector-2-wrapperfc-3-f58"
   },
   "/docs/dev/contribute": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-contribute-52-e-1e9"
+    "content": "content---docs-dev-contribute-62-b-af9"
   },
   "/docs/dev/getting-started": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-getting-startedd-8-c-749"
+    "content": "content---docs-dev-getting-started-2-bc-bba"
   },
   "/docs/dev/libraries": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-libraries-6-c-8-585"
+    "content": "content---docs-dev-librariesab-6-e5b"
   },
   "/docs/dev/overview": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-overviewc-98-8ab"
+    "content": "content---docs-dev-overviewab-8-876"
   },
   "/docs/dev/scoping": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-scoping-2-d-3-a2f"
+    "content": "content---docs-dev-scoping-82-a-5fd"
   },
   "/docs/dev/ui-concept": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-ui-concept-43-c-f55"
+    "content": "content---docs-dev-ui-conceptb-74-a6d"
   },
   "/docs/user/commands": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-user-commands-29-c-088"
+    "content": "content---docs-user-commands-1-a-0-8d0"
+  },
+  "/docs/user/examples": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-examples-61-b-bfc"
+  },
+  "/docs/user/functionality": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-user-functionality-7-ca-a71"
   },
   "/docs/user/installation": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-user-installation-965-47b"
+    "content": "content---docs-user-installationef-6-b2a"
   },
   "/docs/user/overview": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-user-overview-6-f-4-48a"
+    "content": "content---docs-user-overview-436-351"
   }
 }

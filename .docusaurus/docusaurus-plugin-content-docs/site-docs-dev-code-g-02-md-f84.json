@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/g02",
+  "title": "G02",
+  "description": "@package de.timonwei.cnc.workspace.commands.g",
+  "source": "@site/docs/dev/code/g02.md",
+  "permalink": "/docs/dev/code/g02",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/g02.md",
+  "sidebar_label": "G02",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "G01",
+    "permalink": "/docs/dev/code/g01"
+  },
+  "next": {
+    "title": "G03",
+    "permalink": "/docs/dev/code/g03"
+  }
+}

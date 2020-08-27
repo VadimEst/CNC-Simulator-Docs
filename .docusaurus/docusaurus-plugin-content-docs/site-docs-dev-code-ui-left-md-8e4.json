@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/ui_left",
+  "title": "UI_Left",
+  "description": "@package de.timonwei.cnc.ui.parts",
+  "source": "@site/docs/dev/code/ui_left.md",
+  "permalink": "/docs/dev/code/ui_left",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/ui_left.md",
+  "sidebar_label": "UI_Left",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "UserInterface",
+    "permalink": "/docs/dev/code/userinterface"
+  },
+  "next": {
+    "title": "UI_Right",
+    "permalink": "/docs/dev/code/ui_right"
+  }
+}

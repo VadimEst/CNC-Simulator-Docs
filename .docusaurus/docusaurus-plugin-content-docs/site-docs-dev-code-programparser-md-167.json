@@ -5,14 +5,14 @@
   "source": "@site/docs/dev/code/programparser.md",
   "permalink": "/docs/dev/code/programparser",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/programparser.md",
-  "sidebar_label": "Class: Program Parser",
+  "sidebar_label": "Program Parser",
   "sidebar": "devSidebar",
   "previous": {
-    "title": "Libraries",
-    "permalink": "/docs/dev/libraries"
+    "title": "Logger",
+    "permalink": "/docs/dev/code/logger"
   },
   "next": {
-    "title": "Class: Tool",
-    "permalink": "/docs/dev/code/tool"
+    "title": "Settings",
+    "permalink": "/docs/dev/code/settings"
   }
 }

@@ -17,8 +17,18 @@
           },
           {
             "type": "link",
+            "label": "Functionality",
+            "href": "/docs/user/functionality"
+          },
+          {
+            "type": "link",
             "label": "Commands",
             "href": "/docs/user/commands"
+          },
+          {
+            "type": "link",
+            "label": "Examples",
+            "href": "/docs/user/examples"
           }
         ]
       }
@@ -393,6 +403,8 @@
     "/docs/dev/scoping": "devSidebar",
     "/docs/dev/ui-concept": "devSidebar",
     "/docs/user/commands": "userSidebar",
+    "/docs/user/examples": "userSidebar",
+    "/docs/user/functionality": "userSidebar",
     "/docs/user/installation": "userSidebar",
     "/docs/user/overview": "userSidebar"
   }
