@@ -96,8 +96,18 @@ To import an existing CNC-Simulator settings file press this button. A file choo
 
 ### Export Settings Button (Left Bar)
 
+To export the current customized settings to a json file press this button. A file chooser appears and makes it possible to select the saving location on the computer. The file format will be JSON. This file can bi imported with the [Import Settings Button](#import-settings-button-left-bar) and sets the settings like they were saved in this file.
+
 ### Save Settings Button (Left Bar)
+
+To save the current settings press this button. This button closes the settings window and applies the saved settings. It is possible to reopen the settings and customize them again.
 
 ### Discard Settings Button (Left Bar)
 
+To discard the current settings press this button. It discards the current entered settings and restores the last saved settings. 
+
 ### Restore Default Settings Button(Left Bar)
+
+To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings:
+
+![Command Terminal](/img/screenshot/settings.png)
