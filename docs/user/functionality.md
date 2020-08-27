@@ -9,8 +9,9 @@ functions and user interface elements described. The mill is divided into the mi
 
 # User interface functions and window regions
 
+## Left Side Button Bar
 
-## Left Side Bar
+![Left Button Bar](/img/screenshot/leftBar.png)
 
 ### Import Program Button
 
@@ -42,8 +43,11 @@ The biggest section of the simulator is the workspace section in the middle. Her
 * Black: Milled Area
 
 ![Mill Workspace](/img/screenshot/workspace.png)
+![Mill Workspace with Mill](/img/screenshot/workspaceWithMill.png)
 
 ## Right Side Section
+
+![Right Section](/img/screenshot/rightSection.png)
 
 ### Mill Position
 
@@ -82,6 +86,8 @@ This tile is the button to get to the settings dialog. By clicking the tile, the
 
 This table logs the processed and currently processing commands. It sorts the commands chronological and displays the execution time of every single command as well as the command which was executed. 
 
+![Command Table](/img/screenshot/tableWithCommands.png)
+
 ### Command Terminal
 
 ![Command Terminal](/img/screenshot/terminal.png)
@@ -89,6 +95,8 @@ This table logs the processed and currently processing commands. It sorts the co
 This terminal is for manual command input to the simulator. By typing the in [Commands](user/commands) explained commands correctly it is possible to manually control the mill and cut custom forms on the fly. It is also possible to insert commands into a running program to edit it. Furthermore, it is possible to pause and stop the mill in emergency situations like it is possible with the buttons. When typing an invalid or not existing command a dialog indicates this. It is mandatory to type in the commands correctly.
 
 ## Settings
+
+![Left Bar](/img/screenshot/settingsLeftBar.png)
 
 ### Import Settings Button (Left Bar)
 
@@ -110,4 +118,4 @@ To discard the current settings press this button. It discards the current enter
 
 To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings:
 
-![Command Terminal](/img/screenshot/settings.png)
+![Settings](/img/screenshot/settings.png)
