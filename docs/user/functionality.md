@@ -21,7 +21,7 @@ To import an existing program, press the 'Import Program' Button. A file chooser
 
 To start your imported program press this button. It will automatically set your mill up and begin with the first command in the program. If no program is loaded the file chooser will appear and an program file can be selected and loaded into the simulator.
 
-### 1.3Stop Program Button
+### 1.3 Stop Program Button
 
 To stop / pause the program press this button. This button will not delete the programm out of the simulator. You can resume the program by pressing the 'Start Program' Button. 
 
