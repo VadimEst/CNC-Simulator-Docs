@@ -5,15 +5,20 @@ sidebar_label: "UI_Left"
 ---
 
 :::info
-@package de.timonwei.cnc.tools
+@package de.timonwei.cnc.ui.parts
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The public class **UI_Left** provides the structure for the left side of the UserInterface.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### UI_Left(UserInterface ui)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **UI_Left**      |    ui: UserInterface         | Creates an instance of VBox |
+
+### init()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **UI_Left**      |            | Initiates all buttons for the left side of the UI |

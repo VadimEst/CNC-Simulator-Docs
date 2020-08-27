@@ -5,15 +5,36 @@ sidebar_label: "UI_Right"
 ---
 
 :::info
-@package de.timonwei.cnc.tools
+@package de.timonwei.cnc.ui.parts
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The public class **UI_Right** provides the structure for the right side of the UserInterface.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### UI_Right(UserInterface ui)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **UI_Left**      |    ui: UserInterface         | Creates an instance of VBox |
+
+### init()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **UI_Left**      |            | Initiates all buttons for the right side of the UI |
+
+### addCommand(MillCommand processedCommand, String executionTime)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **addCommand**      |    processedCommand: MillCommand, executionTime: String         | Adds a command to the command table |
+
+### clearCommands()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **clearCommands**      |            | Removes all commands from the command table |
+
+### readTerminalInput(TextField commandTerminal)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **readTerminalInput**      |    commandTerminal: TextField        | Extracts the commands from the UI text field |
+
