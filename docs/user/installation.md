@@ -4,7 +4,7 @@ title: Installation
 sidebar_label: Installation
 ---
 
-## Mac
+## 1. Mac
 
 To install the CNC-Simulator for Mac you have to follow two simple steps:
 
@@ -14,6 +14,6 @@ To install the CNC-Simulator for Mac you have to follow two simple steps:
 2. Drag the program into the 'Program Folder'.
 ![Mac Installation 2](/img/installation/macInstallation2.png)
 
-## Windows
+## 2. Windows
 
 tbd
