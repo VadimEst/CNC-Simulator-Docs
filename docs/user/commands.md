@@ -26,7 +26,7 @@ sidebar_label: Commands
 | G01            | G01 or g01           | X, Y        | Mill cuts a line, linear interpolation. |
 | G02            | G02 or g02           | X, Y, I, J  | Mill cuts a circular arc in clockwise circle interpolation. |
 | G03            | G03 or g03           | X, Y, I, J  | Mill cuts a circular arc in anticlockwise circle interpolation. |
-| G28            | G28 or g28           | none        | Mill returns to set homepoint. |
+| G28            | G28 or g28           | none        | Mill returns to set home point. |
 
 
 
@@ -34,4 +34,10 @@ sidebar_label: Commands
 
 ```
 G02 100 100 5 0
+```
+
+or
+
+```
+G02 X100 Y100 I5 J0
 ```
