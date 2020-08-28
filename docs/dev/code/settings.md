@@ -8,12 +8,12 @@ sidebar_label: "Settings"
 @package de.timonwei.cnc.service
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The  class **Settings** the structure to save the settings from the ![SettingsPopover](/docs/dev/code/settingspopover).
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### restoreDefaultSettings()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `static void`       | **restoreDefaultSettings**      |             | Restores default settings saved in the class vars of the settings class. |
