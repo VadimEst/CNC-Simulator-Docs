@@ -8,12 +8,30 @@ sidebar_label: "CommandTable"
 @package de.timonwei.cnc.workspace.commands
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **CommandTable** is in charge of holding command information that will be visualized in the UI.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### CommandTable(String commandNumbber, String executionTime, String commandName)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **CommandTable**      | commandNumber: String, executionTime: String, commandName: String | Creates an instance of CommandTable. |
+
+
+### getCommandNumber()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **getCommandNumber**      |            | Returns command number |
+
+
+### getExecutionTime()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **getExecutionTime**      |            | Returns execution time |
+
+
+### getCommandName()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **getCommandName**      |            | Returns command name |

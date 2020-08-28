@@ -5,7 +5,7 @@ module.exports = {
   devSidebar: {
     'Project': ['dev/overview', 'dev/contribute', 'dev/getting-started'],
     'General Setup': ['dev/scoping', 'dev/architecture', 'dev/ui-concept', 'dev/libraries'],
-    'cnc.service': ['dev/code/programparser', 'dev/code/logger', 'dev/code/programparser', 'dev/code/settings', 'dev/code/settingsparser', 'dev/code/terminalreader'],
+    'cnc.service': ['dev/code/logger', 'dev/code/programparser', 'dev/code/settings', 'dev/code/settingsparser', 'dev/code/terminalreader'],
     'cnc.service.exceptions': ['dev/code/milloutofboundsexception'],
     'cnc.tools': ['dev/code/tool'],
     'cnc.ui': ['dev/code/settingspopover', 'dev/code/userinterface'],

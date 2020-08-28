@@ -8,12 +8,48 @@ sidebar_label: "CommandCoordinates"
 @package de.timonwei.cnc.workspace.commands
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **CommandCoordinates** is in charge of managing the positions the mill will execute due to a specific command.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### CommandCoordinates(MillCommand command)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructur`       | **CommandCoordinates**      |   command: Millcommand          | Creates an instance of CommandCoordinates. |
+
+
+### getProcessedCommand()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `MillCommand`       | **getProcessedCommand**      |            | Returns the command the instance is associated with |
+
+
+### size()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `int`       | **size**      |            | Returns number of positions in the instance |
+
+
+### addPosition(MillPosition position)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **addPosition**      | position: MillPosition           | Adds a position to the instance |
+
+
+### getNextPosition()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `MillPosition`       | **getNextPosition**      |            | Returns the next position |
+
+
+### getCurrentPosition()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `MillPosition`       | **getCurrentPosition**      |            | Returns the current position |
+
+
+### getLastPosition()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `MillPosition`       | **getLastPosition**      |            | Returns the last position |
