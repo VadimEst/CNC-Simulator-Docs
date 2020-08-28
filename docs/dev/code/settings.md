@@ -8,7 +8,7 @@ sidebar_label: "Settings"
 @package de.timonwei.cnc.service
 :::
 
-The  class **Settings** the structure to save the settings from the ![SettingsPopover](/docs/dev/code/settingspopover).
+The  class **Settings** the structure to save the settings from the [SettingsPopover](/docs/dev/code/settingspopover).
 
 
 ## Public Methods
