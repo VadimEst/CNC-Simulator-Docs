@@ -12,7 +12,7 @@
     "permalink": "/docs/dev/ui-concept"
   },
   "next": {
-    "title": "Program Parser",
-    "permalink": "/docs/dev/code/programparser"
+    "title": "Logger",
+    "permalink": "/docs/dev/code/logger"
   }
 }

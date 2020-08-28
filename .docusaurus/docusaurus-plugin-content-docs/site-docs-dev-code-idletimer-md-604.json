@@ -1,7 +1,7 @@
 {
   "id": "dev/code/idletimer",
   "title": "IdleTimer",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.utility",
   "source": "@site/docs\\dev\\code\\idletimer.md",
   "permalink": "/docs/dev/code/idletimer",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/idletimer.md",

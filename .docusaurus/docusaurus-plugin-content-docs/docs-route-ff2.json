@@ -87,11 +87,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Program Parser",
-            "href": "/docs/dev/code/programparser"
-          },
-          {
-            "type": "link",
             "label": "Logger",
             "href": "/docs/dev/code/logger"
           },
@@ -276,6 +271,11 @@
         "items": [
           {
             "type": "link",
+            "label": "Circle",
+            "href": "/docs/dev/code/circle"
+          },
+          {
+            "type": "link",
             "label": "G00",
             "href": "/docs/dev/code/g00"
           },
@@ -298,6 +298,11 @@
             "type": "link",
             "label": "G28",
             "href": "/docs/dev/code/g28"
+          },
+          {
+            "type": "link",
+            "label": "Line",
+            "href": "/docs/dev/code/line"
           }
         ]
       },
@@ -356,6 +361,7 @@
   },
   "permalinkToSidebar": {
     "/docs/dev/architecture": "devSidebar",
+    "/docs/dev/code/circle": "devSidebar",
     "/docs/dev/code/colorwrapper": "devSidebar",
     "/docs/dev/code/commandcoordinates": "devSidebar",
     "/docs/dev/code/commandparameterswrapper": "devSidebar",
@@ -367,6 +373,7 @@
     "/docs/dev/code/g03": "devSidebar",
     "/docs/dev/code/g28": "devSidebar",
     "/docs/dev/code/idletimer": "devSidebar",
+    "/docs/dev/code/line": "devSidebar",
     "/docs/dev/code/logentry": "devSidebar",
     "/docs/dev/code/logger": "devSidebar",
     "/docs/dev/code/m00": "devSidebar",

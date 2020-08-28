@@ -1,7 +1,7 @@
 {
   "id": "dev/code/millcommand",
   "title": "MillCommand",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.workspace.commands;",
   "source": "@site/docs\\dev\\code\\millcommand.md",
   "permalink": "/docs/dev/code/millcommand",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/millcommand.md",
@@ -12,7 +12,7 @@
     "permalink": "/docs/dev/code/commandtable"
   },
   "next": {
-    "title": "G00",
-    "permalink": "/docs/dev/code/g00"
+    "title": "Circle",
+    "permalink": "/docs/dev/code/circle"
   }
 }

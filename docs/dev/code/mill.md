@@ -69,4 +69,16 @@ The class **Mill** is the class in charge of visualizing all calculated position
 ### loadProgram(Queue<MillCommand\> programQueue)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **loadProgram**      | programQueue: Queue<MillCommand\> | Starts milling. |
+| `void`       | **loadProgram**      | programQueue: Queue<MillCommand\> | Loads a Program from a Queue. |
+
+
+### wipeQueues()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **wipeQueues**      |  | Reinstanciates all Queues to reset the mill. |
+
+
+### getRootPosition()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `Vector2<Double>`       | **getRootPosition**      |  | Return the root position of the mill |

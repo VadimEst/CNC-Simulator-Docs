@@ -1,7 +1,7 @@
 {
   "id": "dev/code/g01",
   "title": "G01",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.workspace.commands.g",
   "source": "@site/docs\\dev\\code\\g01.md",
   "permalink": "/docs/dev/code/g01",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/g01.md",

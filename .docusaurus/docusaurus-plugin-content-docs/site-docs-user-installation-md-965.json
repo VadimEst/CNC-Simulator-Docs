@@ -1,6 +1,7 @@
 {
   "id": "user/installation",
   "title": "Installation",
+  "description": "1. Mac",
   "source": "@site/docs\\user\\installation.md",
   "permalink": "/docs/user/installation",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/installation.md",
@@ -11,7 +12,7 @@
     "permalink": "/docs/user/overview"
   },
   "next": {
-    "title": "Commands",
-    "permalink": "/docs/user/commands"
+    "title": "Functionality",
+    "permalink": "/docs/user/functionality"
   }
 }
