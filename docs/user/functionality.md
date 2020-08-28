@@ -119,3 +119,26 @@ To discard the current settings press this button. It discards the current enter
 To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings:
 
 ![Settings](/img/screenshot/settings.png)
+
+### 4.6 Speed Slider
+
+To adjust the standard speed of the mill change the position of the slider in the range of 4 to 8. The slider value is completely free between this two ranges.
+
+### 4.7 Speed Adjustments With and Without Coolant
+
+To adjust the standard cutting speed with or without coolant change the values in the specific input boxes.
+
+### 4.8 Home Point 
+
+To adjust the home point of the mill change the values in the x and y input field in the settings window. After saving the mill will automatically set the home point to this coordinates.
+
+### 4.9 Color Picker Section
+
+To adjust the colors of:
+
+* Home
+* Mill
+* Workspace
+* Milled Area
+
+click on the specific color picker and choose the preferred color. After saving the settings the colors will change in the workspace.
