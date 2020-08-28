@@ -5,7 +5,7 @@ sidebar_label: "Program Parser"
 ---
 
 :::info
-@package de.timonwei.cnc.Workspace
+@package de.timonwei.cnc.service
 :::
 
 
