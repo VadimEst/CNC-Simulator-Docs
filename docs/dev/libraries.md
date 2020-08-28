@@ -20,3 +20,11 @@ To extend the functionality of Java FX, the project uses [Tiles FX](https://gith
 ## Jackson
 
 JSON files in the application are handled by [Jackson Databind](https://github.com/FasterXML/jackson-databind).
+
+## External Classes
+
+### AutoCompleteTextField
+
+ This class is a TextField which implements an "autocomplete" functionality, based on a supplied list of entries.
+ @author Caleb Brinkman
+ @source [](https://gist.github.com/floralvikings/10290131)
