@@ -8,12 +8,32 @@ sidebar_label: "SettingsParser"
 @package de.timonwei.cnc.service
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **SettingsParser** provides the functions for importing and exporting settings files from and to json.
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### SettingsParser(SettingsPopover settings)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **SettingsParser**      |     settings: SettingsPopover        | Creates an instance of SettingsParser. |
+
+### readSettings()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `static void`       | **readSettings**      |             | Reads settings from the `settings.json` file. |
+
+### readSettings(File file)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `static void`       | **readSettings**      |   file: File           | Reads settings from a variable file. |
+
+### writeSettings()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `static void`       | **writeSettings**      |             | Writes settings to the `settings.json` file. |
+
+### writeSettings(File file)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `static void`       | **writeSettings**      |   file: File           | Writes settings to a variable file. |
