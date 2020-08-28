@@ -1,7 +1,7 @@
 ---
-id: milloutofboundsexception
-title: "MillOutOfBoundsException"
-sidebar_label: "MillOutOfBoundsException"
+id: invalidcommandexception
+title: "InvalidCommandExcecption"
+sidebar_label: "InvalidCommandExcecption"
 ---
 
 :::info

@@ -1,7 +1,7 @@
 ---
-id: milloutofboundsexception
-title: "MillOutOfBoundsException"
-sidebar_label: "MillOutOfBoundsException"
+id: invalidprogramfileexception
+title: "InvalidProgramFileException"
+sidebar_label: "InvalidProgramFileException"
 ---
 
 :::info
