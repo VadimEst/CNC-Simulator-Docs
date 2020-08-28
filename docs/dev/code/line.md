@@ -1,22 +1,22 @@
 ---
-id: g03
-title: "G03"
-sidebar_label: "G03"
+id: g02
+title: "G02"
+sidebar_label: "G02"
 ---
 
 :::info
 @package de.timonwei.cnc.workspace.commands.g
 :::
 
-The class **G03** provides the functionality to cut a anti-clockwise circle.
+The abstract class **Line** provides the basic functionality for cutting a line.
 
 
 ## Methods
 
-### G03(String[] args)
+### Line(String[] args)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `constructor`       | **G03**      |       args: String[]      | Creates an instance of Circle |
+| `constructor`       | **Line**      |       args: String[]      | Creates an instance of Line |
 
 ### calculate(Mill mill, boolean insertAtCurrentIndex)
 | Return Type   | Method Name   | Parameters  | Description    |

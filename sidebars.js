@@ -14,7 +14,7 @@ module.exports = {
     'cnc.utility.wrapper': ['dev/code/colorwrapper', 'dev/code/commandparameterswrapper', 'dev/code/commandwrapper', 'dev/code/logentry', 'dev/code/programwrapper', 'dev/code/settingswrapper', 'dev/code/vector2wrapper'],
     'cnc.workspace': ['dev/code/mill'],
     'cnc.workspace.commands': ['dev/code/commandcoordinates', 'dev/code/commandtable', 'dev/code/millcommand'],
-    'cnc.workspace.commands.g': ['dev/code/g00', 'dev/code/g01', 'dev/code/g02', 'dev/code/g03', 'dev/code/g28'],
+    'cnc.workspace.commands.g': ['dev/code/circle', 'dev/code/g00', 'dev/code/g01', 'dev/code/g02', 'dev/code/g03', 'dev/code/g28', 'dev/code/line'],
     'cnc.workspace.commands.m': ['dev/code/m00', 'dev/code/m02', 'dev/code/m03', 'dev/code/m04', 'dev/code/m05', 'dev/code/m08', 'dev/code/m09', 'dev/code/m13', 'dev/code/m14']
   },
 };
