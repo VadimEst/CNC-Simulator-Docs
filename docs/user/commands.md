@@ -30,14 +30,6 @@ sidebar_label: Commands
 
 
 
-## Syntax Examples
+## Terminal Syntax Examples
 
-```
-G02 100 100 5 0
-```
-
-or
-
-```
-G02 X100 Y100 I5 J0
-```
+See: ![Examples](/docs/user/examples)
