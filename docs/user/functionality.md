@@ -116,7 +116,7 @@ To discard the current settings press this button. It discards the current enter
 
 ### 4.5 Restore Default Settings Button(Left Bar)
 
-To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings. Default settings can be seen in the picture in (#4-settings)
+To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings. Default settings can be seen in the picture in [Settings](#4-settings)
 
 
 ### 4.6 Speed Slider
