@@ -8,12 +8,18 @@ sidebar_label: "Vector2Wrapper"
 @package de.timonwei.cnc.utility.wrapperS
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **Vector2Wrapper** can wrap all parameters from a Vector2.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### Vector2Wrapper()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `void`       | **Vector2Wrapper**      |             | Creates an instance of Vector2Wrapper. |
+
+
+### Vector2Wrapper(Vector2<Double\> v)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **Vector2Wrapper**      |  v: Vector2<Double\>           | Creates an instance of Vector2Wrapper. |

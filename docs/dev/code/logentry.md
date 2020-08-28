@@ -8,12 +8,17 @@ sidebar_label: "LogEntry"
 @package de.timonwei.utility.wrapper
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
-
+The class **LogEntry** is a wrapper for all entries, that are printed to the log files.
 
 ## Methods
 
-### Tool(int width, int height)
+### LogEntry()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructur`       | **LogEntry**      |             | Creates an instance of LogEntry. |
+
+
+### LogEntry(Logger.EntryType type, String message)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `constructur`       | **LogEntry**      | type: Logger.EntryType, message: String | Creates an instance of LogEntry. |

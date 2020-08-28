@@ -8,12 +8,36 @@ sidebar_label: "IdleTimer"
 @package de.timonwei.cnc.utility
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **IdleTimer** provides the timer functionality for the mill.
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### IdleTimer(UserInterface ui)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **IdleTimer**      |             | Creates an instance of IdleTimer. |
+
+
+### handle(long now)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **handle**      |             | Is executed on every frame and updates the mill. |
+
+
+### start()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **start**      |             | Starts the timer. |
+
+
+### stop()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `void`       | **stop**      |             | Stop the timer. |
+
+
+### isRunning()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `boolean`       | **isRunning**      |             | Return if the timer is running. |

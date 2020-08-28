@@ -16,9 +16,9 @@ The class *ColorWrapper* provides a container for RGB-colors.
 ### ColorWrapper()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **ColorWrapper**      |             | Creates an instance of ColorWrapper |
+| `constructor`       | **ColorWrapper**      |             | Creates an instance of ColorWrapper |
 
 ### ColorWrapper(Color color)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **ColorWrapper**      |    color: Color         | Creates an instance of ColorWrapper |
+| `constructor`       | **ColorWrapper**      |    color: Color         | Creates an instance of ColorWrapper |
