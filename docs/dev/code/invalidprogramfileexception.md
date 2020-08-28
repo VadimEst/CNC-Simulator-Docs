@@ -8,12 +8,22 @@ sidebar_label: "InvalidProgramFileException"
 @package de.timonwei.cnc.service.exceptions
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The abstract class **InvalidProgramFileException** extends Exception and provides a custom exception for invalid commands in program files.
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### InvalidProgramFileException()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **InvalidProgramFileException**      |             | Creates an instance of InvalidProgramFileException. |
+
+### InvalidProgramFileException(String cmdName)
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `constructor`       | **InvalidProgramFileException**      |    cmdName: String   | Creates an instance of InvalidProgramFileException with a command name. |
+
+### getMessage()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **getMessage**      |       | Returns the exception message. |

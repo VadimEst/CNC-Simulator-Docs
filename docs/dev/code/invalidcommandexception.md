@@ -1,19 +1,24 @@
 ---
 id: invalidcommandexception
-title: "InvalidCommandExcecption"
-sidebar_label: "InvalidCommandExcecption"
+title: "InvalidCommandException"
+sidebar_label: "InvalidCommandException"
 ---
 
 :::info
 @package de.timonwei.cnc.service.exceptions
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **InvalidCommandException** extends Exception and provides a custom exception for invalid entered commands in the terminal.
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### InvalidCommandException(String cmdName)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **InvalidCommandException**      |      cmdName: String        | Creates an instance of InvalidCommandException. |
+
+### getMessage()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `String`       | **getMessage**      |       | Returns the exception message. |
