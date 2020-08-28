@@ -8,12 +8,12 @@ sidebar_label: "SettingsWrapper"
 @package de.timonwei.cnc.utility.wrapper
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **SettingsWrapper** is a wrapper for all settings.
 
 
-## Methods
+## Public Methods
 
-### Tool(int width, int height)
+### wrapSettings()
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `void`       | **wrapSettings**      |             | Wraps the settings from class Settings. |
