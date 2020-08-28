@@ -1,7 +1,7 @@
 {
   "id": "dev/code/commandwrapper",
   "title": "CommandWrapper",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.utility wrapper",
   "source": "@site/docs\\dev\\code\\commanwrapper.md",
   "permalink": "/docs/dev/code/commandwrapper",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/commanwrapper.md",

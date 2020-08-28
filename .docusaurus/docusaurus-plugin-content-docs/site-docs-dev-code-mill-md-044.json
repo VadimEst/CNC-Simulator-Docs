@@ -1,7 +1,7 @@
 {
   "id": "dev/code/mill",
   "title": "Mill",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.workspace",
   "source": "@site/docs\\dev\\code\\mill.md",
   "permalink": "/docs/dev/code/mill",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/mill.md",

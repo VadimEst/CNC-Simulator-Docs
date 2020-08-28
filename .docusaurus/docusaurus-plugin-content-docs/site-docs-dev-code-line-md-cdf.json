@@ -1,0 +1,18 @@
+{
+  "id": "dev/code/line",
+  "title": "Line",
+  "description": "@package de.timonwei.cnc.workspace.commands.g",
+  "source": "@site/docs\\dev\\code\\line.md",
+  "permalink": "/docs/dev/code/line",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/line.md",
+  "sidebar_label": "Line",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "G28",
+    "permalink": "/docs/dev/code/g28"
+  },
+  "next": {
+    "title": "M00",
+    "permalink": "/docs/dev/code/m00"
+  }
+}

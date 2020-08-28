@@ -1,7 +1,7 @@
 {
   "id": "dev/code/commandtable",
   "title": "CommandTable",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.workspace.commands",
   "source": "@site/docs\\dev\\code\\commandtable.md",
   "permalink": "/docs/dev/code/commandtable",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/commandtable.md",

@@ -1,0 +1,14 @@
+{
+  "id": "user/examples",
+  "title": "Examples",
+  "description": "Program Examples",
+  "source": "@site/docs\\user\\examples.md",
+  "permalink": "/docs/user/examples",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/examples.md",
+  "sidebar_label": "Examples",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "Commands",
+    "permalink": "/docs/user/commands"
+  }
+}

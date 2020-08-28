@@ -1,7 +1,7 @@
 {
   "id": "dev/code/vector2wrapper",
   "title": "Vector2Wrapper",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.utility.wrapperS",
   "source": "@site/docs\\dev\\code\\vector2wrapper.md",
   "permalink": "/docs/dev/code/vector2wrapper",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/vector2wrapper.md",

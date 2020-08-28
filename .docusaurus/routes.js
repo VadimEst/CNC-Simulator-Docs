@@ -22,6 +22,12 @@ export default [
   
 },
 {
+  path: '/docs/dev/code/circle',
+  component: ComponentCreator('/docs/dev/code/circle'),
+  exact: true,
+  
+},
+{
   path: '/docs/dev/code/colorwrapper',
   component: ComponentCreator('/docs/dev/code/colorwrapper'),
   exact: true,
@@ -84,6 +90,12 @@ export default [
 {
   path: '/docs/dev/code/idletimer',
   component: ComponentCreator('/docs/dev/code/idletimer'),
+  exact: true,
+  
+},
+{
+  path: '/docs/dev/code/line',
+  component: ComponentCreator('/docs/dev/code/line'),
   exact: true,
   
 },

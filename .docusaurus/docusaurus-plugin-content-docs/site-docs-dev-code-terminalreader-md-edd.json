@@ -1,7 +1,7 @@
 {
   "id": "dev/code/terminalreader",
   "title": "TerminalReader",
-  "description": "@package de.timonwei.cnc.tools",
+  "description": "@package de.timonwei.cnc.service",
   "source": "@site/docs\\dev\\code\\terminalreader.md",
   "permalink": "/docs/dev/code/terminalreader",
   "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/terminalreader.md",
