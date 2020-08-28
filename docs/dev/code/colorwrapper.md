@@ -5,7 +5,7 @@ sidebar_label: "ColorWrapper"
 ---
 
 :::info
-@package de.timonwei.cnc.tools
+@package de.timonwei.utility.wrapper
 :::
 
 The class *ColorWrapper* provides a container for RGB-colors.

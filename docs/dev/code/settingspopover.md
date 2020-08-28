@@ -5,7 +5,7 @@ sidebar_label: "SettingsPopover"
 ---
 
 :::info
-@package de.timonwei.cnc.tools
+@package de.timonwei.cnc.ui
 :::
 
 The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
