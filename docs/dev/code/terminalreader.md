@@ -8,7 +8,7 @@ sidebar_label: "TerminalReader"
 @package de.timonwei.cnc.service
 :::
 
-The abstract class **TerminalReader** provides the function to read the entered g- and m- commands in the ![Command Terminal](/docs/user/functionality#38-command-terminal).
+The abstract class **TerminalReader** provides the function to read the entered g- and m- commands in the [Command Terminal](/docs/user/functionality#38-command-terminal).
 
 
 ## Public Methods
