@@ -8,12 +8,18 @@ sidebar_label: "MillPosition"
 @package de.timonwei.cnc.utility;
 :::
 
-The abstract class **Tool** provides the basic structure required for using tools with the CNC Simulator. This class can be extended to provide custom tools.
+The class **MillPosition** holds the information for the drawing from the mill.
 
 
 ## Methods
 
-### Tool(int width, int height)
+### MillPosition(double x, double y, boolean milling)
 | Return Type   | Method Name   | Parameters  | Description    |
 | ------------- | ------------- | ----------- | -------------- |
-| `void`       | **Tool**      |             | Creates an instance of Tool. |
+| `constructor`       | **MillPosition**      | x: double, y: double, milling: boolean  | Creates an instance of MillPosition. |
+
+
+### isMilling()
+| Return Type   | Method Name   | Parameters  | Description    |
+| ------------- | ------------- | ----------- | -------------- |
+| `boolean`       | **isMilling**      |             | Returns if the mill is milling at this position. |
