@@ -96,7 +96,7 @@ This terminal is for manual command input to the simulator. By typing the in [Co
 
 ## 4. Settings
 
-![Left Bar](/img/screenshot/settingsLeftBar.png)
+![Settings](/img/screenshot/settings.png)
 
 ### 4.1 Import Settings Button (Left Bar)
 
@@ -116,9 +116,8 @@ To discard the current settings press this button. It discards the current enter
 
 ### 4.5 Restore Default Settings Button(Left Bar)
 
-To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings:
+To restore the default settings press this button. It discards the current entered and last saved settings and restores the settings to the simulators default settings. Default settings can be seen in the picture in (#4-settings)
 
-![Settings](/img/screenshot/settings.png)
 
 ### 4.6 Speed Slider
 
