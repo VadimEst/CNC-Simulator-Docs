@@ -1,7 +1,7 @@
 ---
-id: g02
-title: "G02"
-sidebar_label: "G02"
+id: line
+title: "Line"
+sidebar_label: "Line"
 ---
 
 :::info

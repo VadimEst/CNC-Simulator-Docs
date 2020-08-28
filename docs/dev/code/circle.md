@@ -1,7 +1,7 @@
 ---
-id: g02
-title: "G02"
-sidebar_label: "G02"
+id: circle
+title: "Circle"
+sidebar_label: "Circle"
 ---
 
 :::info
