@@ -30,7 +30,7 @@ const features = [
     //imageUrl: '',
     description: (
       <>
-        The CNC Simulator is able to use standardized XML files to simulate your custom process.
+        The CNC Simulator is able to use standardized JSON files to simulate your custom process.
       </>
     ),
   },
