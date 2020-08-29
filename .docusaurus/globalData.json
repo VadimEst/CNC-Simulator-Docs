@@ -1,0 +1,242 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "user/overview",
+          "docs": [
+            {
+              "id": "dev/architecture",
+              "path": "/docs/dev/architecture"
+            },
+            {
+              "id": "dev/code/circle",
+              "path": "/docs/dev/code/circle"
+            },
+            {
+              "id": "dev/code/colorwrapper",
+              "path": "/docs/dev/code/colorwrapper"
+            },
+            {
+              "id": "dev/code/commandcoordinates",
+              "path": "/docs/dev/code/commandcoordinates"
+            },
+            {
+              "id": "dev/code/commandparameterswrapper",
+              "path": "/docs/dev/code/commandparameterswrapper"
+            },
+            {
+              "id": "dev/code/commandtable",
+              "path": "/docs/dev/code/commandtable"
+            },
+            {
+              "id": "dev/code/commandwrapper",
+              "path": "/docs/dev/code/commandwrapper"
+            },
+            {
+              "id": "dev/code/g00",
+              "path": "/docs/dev/code/g00"
+            },
+            {
+              "id": "dev/code/g01",
+              "path": "/docs/dev/code/g01"
+            },
+            {
+              "id": "dev/code/g02",
+              "path": "/docs/dev/code/g02"
+            },
+            {
+              "id": "dev/code/g03",
+              "path": "/docs/dev/code/g03"
+            },
+            {
+              "id": "dev/code/g28",
+              "path": "/docs/dev/code/g28"
+            },
+            {
+              "id": "dev/code/idletimer",
+              "path": "/docs/dev/code/idletimer"
+            },
+            {
+              "id": "dev/code/invalidcommandexception",
+              "path": "/docs/dev/code/invalidcommandexception"
+            },
+            {
+              "id": "dev/code/invalidprogramfileexception",
+              "path": "/docs/dev/code/invalidprogramfileexception"
+            },
+            {
+              "id": "dev/code/line",
+              "path": "/docs/dev/code/line"
+            },
+            {
+              "id": "dev/code/logentry",
+              "path": "/docs/dev/code/logentry"
+            },
+            {
+              "id": "dev/code/logger",
+              "path": "/docs/dev/code/logger"
+            },
+            {
+              "id": "dev/code/m00",
+              "path": "/docs/dev/code/m00"
+            },
+            {
+              "id": "dev/code/m02",
+              "path": "/docs/dev/code/m02"
+            },
+            {
+              "id": "dev/code/m03",
+              "path": "/docs/dev/code/m03"
+            },
+            {
+              "id": "dev/code/m04",
+              "path": "/docs/dev/code/m04"
+            },
+            {
+              "id": "dev/code/m05",
+              "path": "/docs/dev/code/m05"
+            },
+            {
+              "id": "dev/code/m08",
+              "path": "/docs/dev/code/m08"
+            },
+            {
+              "id": "dev/code/m09",
+              "path": "/docs/dev/code/m09"
+            },
+            {
+              "id": "dev/code/m13",
+              "path": "/docs/dev/code/m13"
+            },
+            {
+              "id": "dev/code/m14",
+              "path": "/docs/dev/code/m14"
+            },
+            {
+              "id": "dev/code/mill",
+              "path": "/docs/dev/code/mill"
+            },
+            {
+              "id": "dev/code/millcommand",
+              "path": "/docs/dev/code/millcommand"
+            },
+            {
+              "id": "dev/code/milloutofboundsexception",
+              "path": "/docs/dev/code/milloutofboundsexception"
+            },
+            {
+              "id": "dev/code/millposition",
+              "path": "/docs/dev/code/millposition"
+            },
+            {
+              "id": "dev/code/milltimer",
+              "path": "/docs/dev/code/milltimer"
+            },
+            {
+              "id": "dev/code/programparser",
+              "path": "/docs/dev/code/programparser"
+            },
+            {
+              "id": "dev/code/programwrapper",
+              "path": "/docs/dev/code/programwrapper"
+            },
+            {
+              "id": "dev/code/settings",
+              "path": "/docs/dev/code/settings"
+            },
+            {
+              "id": "dev/code/settingsparser",
+              "path": "/docs/dev/code/settingsparser"
+            },
+            {
+              "id": "dev/code/settingspopover",
+              "path": "/docs/dev/code/settingspopover"
+            },
+            {
+              "id": "dev/code/settingswrapper",
+              "path": "/docs/dev/code/settingswrapper"
+            },
+            {
+              "id": "dev/code/terminalreader",
+              "path": "/docs/dev/code/terminalreader"
+            },
+            {
+              "id": "dev/code/tool",
+              "path": "/docs/dev/code/tool"
+            },
+            {
+              "id": "dev/code/ui_left",
+              "path": "/docs/dev/code/ui_left"
+            },
+            {
+              "id": "dev/code/ui_right",
+              "path": "/docs/dev/code/ui_right"
+            },
+            {
+              "id": "dev/code/userinterface",
+              "path": "/docs/dev/code/userinterface"
+            },
+            {
+              "id": "dev/code/vector2",
+              "path": "/docs/dev/code/vector2"
+            },
+            {
+              "id": "dev/code/vector2wrapper",
+              "path": "/docs/dev/code/vector2wrapper"
+            },
+            {
+              "id": "dev/contribute",
+              "path": "/docs/dev/contribute"
+            },
+            {
+              "id": "dev/getting-started",
+              "path": "/docs/dev/getting-started"
+            },
+            {
+              "id": "dev/libraries",
+              "path": "/docs/dev/libraries"
+            },
+            {
+              "id": "dev/overview",
+              "path": "/docs/dev/overview"
+            },
+            {
+              "id": "dev/scoping",
+              "path": "/docs/dev/scoping"
+            },
+            {
+              "id": "dev/ui-concept",
+              "path": "/docs/dev/ui-concept"
+            },
+            {
+              "id": "user/commands",
+              "path": "/docs/user/commands"
+            },
+            {
+              "id": "user/examples",
+              "path": "/docs/user/examples"
+            },
+            {
+              "id": "user/functionality",
+              "path": "/docs/user/functionality"
+            },
+            {
+              "id": "user/installation",
+              "path": "/docs/user/installation"
+            },
+            {
+              "id": "user/overview",
+              "path": "/docs/user/overview"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

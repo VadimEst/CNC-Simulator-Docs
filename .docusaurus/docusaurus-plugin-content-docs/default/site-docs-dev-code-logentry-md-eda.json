@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/logentry",
+  "id": "dev/code/logentry",
+  "isDocsHomePage": false,
+  "title": "LogEntry",
+  "description": "@package de.timonwei.utility.wrapper",
+  "source": "@site/docs/dev/code/logentry.md",
+  "slug": "/dev/code/logentry",
+  "permalink": "/docs/dev/code/logentry",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/logentry.md",
+  "version": "current",
+  "sidebar_label": "LogEntry",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "CommandWrapper",
+    "permalink": "/docs/dev/code/commandwrapper"
+  },
+  "next": {
+    "title": "ProgramWrapper",
+    "permalink": "/docs/dev/code/programwrapper"
+  }
+}

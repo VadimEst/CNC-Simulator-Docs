@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/millposition",
+  "id": "dev/code/millposition",
+  "isDocsHomePage": false,
+  "title": "MillPosition",
+  "description": "@package de.timonwei.cnc.utility;",
+  "source": "@site/docs/dev/code/millposition.md",
+  "slug": "/dev/code/millposition",
+  "permalink": "/docs/dev/code/millposition",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/millposition.md",
+  "version": "current",
+  "sidebar_label": "MillPosition",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "IdleTimer",
+    "permalink": "/docs/dev/code/idletimer"
+  },
+  "next": {
+    "title": "MillTimer",
+    "permalink": "/docs/dev/code/milltimer"
+  }
+}

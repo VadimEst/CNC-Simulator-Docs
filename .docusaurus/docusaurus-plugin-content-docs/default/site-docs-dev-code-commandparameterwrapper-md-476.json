@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/commandparameterswrapper",
+  "id": "dev/code/commandparameterswrapper",
+  "isDocsHomePage": false,
+  "title": "CommandParametersWrapper",
+  "description": "@package de.timonwei.cnc.utility.wrapper",
+  "source": "@site/docs/dev/code/commandparameterwrapper.md",
+  "slug": "/dev/code/commandparameterswrapper",
+  "permalink": "/docs/dev/code/commandparameterswrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/commandparameterwrapper.md",
+  "version": "current",
+  "sidebar_label": "CommandParameterWrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "ColorWrapper",
+    "permalink": "/docs/dev/code/colorwrapper"
+  },
+  "next": {
+    "title": "CommandWrapper",
+    "permalink": "/docs/dev/code/commandwrapper"
+  }
+}

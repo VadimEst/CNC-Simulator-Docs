@@ -1,7 +1,11 @@
 export default {
-  "plugins": [],
-  "themes": [],
-  "customFields": {},
+  "title": "CNC Simulator Documentation",
+  "tagline": "Guide how to use the CNC Simulator",
+  "url": "https://docs.cnc.timon.cloud",
+  "baseUrl": "/",
+  "favicon": "img/icon.png",
+  "organizationName": "timonweide",
+  "projectName": "CNC-Simulator",
   "themeConfig": {
     "navbar": {
       "title": "CNC Simulator Documentation",
@@ -9,7 +13,7 @@ export default {
         "alt": "CNC Simulator",
         "src": "img/icon.png"
       },
-      "links": [
+      "items": [
         {
           "to": "docs/user/overview/",
           "activeBasePath": "docs/user/",
@@ -34,7 +38,8 @@ export default {
           "position": "right",
           "target": "_blank"
         }
-      ]
+      ],
+      "hideOnScroll": false
     },
     "footer": {
       "style": "dark",
@@ -99,22 +104,25 @@ export default {
         }
       ],
       "copyright": "Copyright © 2020 Florian Koopmann, Yannik Pfrengle, Timon Weide"
+    },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": false,
+      "switchConfig": {
+        "darkIcon": "🌜",
+        "darkIconStyle": {},
+        "lightIcon": "🌞",
+        "lightIconStyle": {}
+      }
     }
   },
-  "title": "CNC Simulator Documentation",
-  "tagline": "Guide how to use the CNC Simulator",
-  "url": "https://docs.cnc.timon.cloud",
-  "baseUrl": "/",
-  "favicon": "img/icon.png",
-  "organizationName": "timonweide",
-  "projectName": "CNC-Simulator",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "homePageId": "docs/user/",
-          "sidebarPath": "C:\\Users\\i517805\\Documents\\GitHub\\CNC-Simulator-Docs\\sidebars.js",
+          "sidebarPath": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/sidebars.js",
           "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/"
         },
         "blog": {
@@ -122,9 +130,14 @@ export default {
           "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "C:\\Users\\i517805\\Documents\\GitHub\\CNC-Simulator-Docs\\src\\css\\custom.css"
+          "customCss": "/Users/timonweide/Entwicklung/CNC-Simulator-Docs/src/css/custom.css"
         }
       }
     ]
-  ]
+  ],
+  "onBrokenLinks": "throw",
+  "onDuplicateRoutes": "warn",
+  "customFields": {},
+  "plugins": [],
+  "themes": []
 };

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/ui_right",
+  "id": "dev/code/ui_right",
+  "isDocsHomePage": false,
+  "title": "UI_Right",
+  "description": "@package de.timonwei.cnc.ui.parts",
+  "source": "@site/docs/dev/code/ui_right.md",
+  "slug": "/dev/code/ui_right",
+  "permalink": "/docs/dev/code/ui_right",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/ui_right.md",
+  "version": "current",
+  "sidebar_label": "UI_Right",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "UI_Left",
+    "permalink": "/docs/dev/code/ui_left"
+  },
+  "next": {
+    "title": "IdleTimer",
+    "permalink": "/docs/dev/code/idletimer"
+  }
+}

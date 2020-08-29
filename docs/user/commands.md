@@ -32,4 +32,4 @@ sidebar_label: Commands
 
 ## Terminal Syntax Examples
 
-See: ![Examples](/docs/user/examples)
+See: [Examples](/docs/user/examples)

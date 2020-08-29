@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/milltimer",
+  "id": "dev/code/milltimer",
+  "isDocsHomePage": false,
+  "title": "MillTimer",
+  "description": "@package de.timonwei.cnc.utility;",
+  "source": "@site/docs/dev/code/milltimer.md",
+  "slug": "/dev/code/milltimer",
+  "permalink": "/docs/dev/code/milltimer",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/milltimer.md",
+  "version": "current",
+  "sidebar_label": "MillTimer",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "MillPosition",
+    "permalink": "/docs/dev/code/millposition"
+  },
+  "next": {
+    "title": "Vector2",
+    "permalink": "/docs/dev/code/vector2"
+  }
+}

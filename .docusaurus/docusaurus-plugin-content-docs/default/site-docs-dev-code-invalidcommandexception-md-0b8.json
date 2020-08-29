@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/invalidcommandexception",
+  "id": "dev/code/invalidcommandexception",
+  "isDocsHomePage": false,
+  "title": "InvalidCommandException",
+  "description": "@package de.timonwei.cnc.service.exceptions",
+  "source": "@site/docs/dev/code/invalidcommandexception.md",
+  "slug": "/dev/code/invalidcommandexception",
+  "permalink": "/docs/dev/code/invalidcommandexception",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/invalidcommandexception.md",
+  "version": "current",
+  "sidebar_label": "InvalidCommandException",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "MillOutOfBoundsException",
+    "permalink": "/docs/dev/code/milloutofboundsexception"
+  },
+  "next": {
+    "title": "InvalidProgramFileException",
+    "permalink": "/docs/dev/code/invalidprogramfileexception"
+  }
+}

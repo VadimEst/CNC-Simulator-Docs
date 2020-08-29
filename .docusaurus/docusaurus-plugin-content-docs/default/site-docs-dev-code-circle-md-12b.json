@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/circle",
+  "id": "dev/code/circle",
+  "isDocsHomePage": false,
+  "title": "Circle",
+  "description": "@package de.timonwei.cnc.workspace.commands.g",
+  "source": "@site/docs/dev/code/circle.md",
+  "slug": "/dev/code/circle",
+  "permalink": "/docs/dev/code/circle",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/circle.md",
+  "version": "current",
+  "sidebar_label": "Circle",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "MillCommand",
+    "permalink": "/docs/dev/code/millcommand"
+  },
+  "next": {
+    "title": "G00",
+    "permalink": "/docs/dev/code/g00"
+  }
+}

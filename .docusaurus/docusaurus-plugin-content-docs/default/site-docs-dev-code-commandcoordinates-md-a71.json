@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/commandcoordinates",
+  "id": "dev/code/commandcoordinates",
+  "isDocsHomePage": false,
+  "title": "CommandCoordinates",
+  "description": "@package de.timonwei.cnc.workspace.commands",
+  "source": "@site/docs/dev/code/commandcoordinates.md",
+  "slug": "/dev/code/commandcoordinates",
+  "permalink": "/docs/dev/code/commandcoordinates",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/commandcoordinates.md",
+  "version": "current",
+  "sidebar_label": "CommandCoordinates",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Mill",
+    "permalink": "/docs/dev/code/mill"
+  },
+  "next": {
+    "title": "CommandTable",
+    "permalink": "/docs/dev/code/commandtable"
+  }
+}

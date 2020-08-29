@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/settings",
+  "id": "dev/code/settings",
+  "isDocsHomePage": false,
+  "title": "Settings",
+  "description": "@package de.timonwei.cnc.service",
+  "source": "@site/docs/dev/code/settings.md",
+  "slug": "/dev/code/settings",
+  "permalink": "/docs/dev/code/settings",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/settings.md",
+  "version": "current",
+  "sidebar_label": "Settings",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Program Parser",
+    "permalink": "/docs/dev/code/programparser"
+  },
+  "next": {
+    "title": "SettingsParser",
+    "permalink": "/docs/dev/code/settingsparser"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/idletimer",
+  "id": "dev/code/idletimer",
+  "isDocsHomePage": false,
+  "title": "IdleTimer",
+  "description": "@package de.timonwei.cnc.utility",
+  "source": "@site/docs/dev/code/idletimer.md",
+  "slug": "/dev/code/idletimer",
+  "permalink": "/docs/dev/code/idletimer",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/idletimer.md",
+  "version": "current",
+  "sidebar_label": "IdleTimer",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "UI_Right",
+    "permalink": "/docs/dev/code/ui_right"
+  },
+  "next": {
+    "title": "MillPosition",
+    "permalink": "/docs/dev/code/millposition"
+  }
+}

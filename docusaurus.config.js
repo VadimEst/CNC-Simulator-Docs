@@ -13,7 +13,7 @@ module.exports = {
                 alt: 'CNC Simulator',
                 src: 'img/icon.png',
             },
-            links: [{
+            items: [{
                     to: 'docs/user/overview/',
                     activeBasePath: 'docs/user/',
                     label: 'User Documentation',
@@ -105,7 +105,7 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-                    slug: 'docs/user/',
+                    //homePageId: 'docs/user/',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: 'https://github.com/timonweide/cnc-simulator-docs/edit/master/',

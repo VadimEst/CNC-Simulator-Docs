@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user/installation",
+  "id": "user/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "1. Mac",
+  "source": "@site/docs/user/installation.md",
+  "slug": "/user/installation",
+  "permalink": "/docs/user/installation",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/user/installation.md",
+  "version": "current",
+  "sidebar_label": "Installation",
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "User Documentation",
+    "permalink": "/docs/user/overview"
+  },
+  "next": {
+    "title": "Functionality",
+    "permalink": "/docs/user/functionality"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/logger",
+  "id": "dev/code/logger",
+  "isDocsHomePage": false,
+  "title": "Logger",
+  "description": "@package de.timonwei.cnc.service",
+  "source": "@site/docs/dev/code/logger.md",
+  "slug": "/dev/code/logger",
+  "permalink": "/docs/dev/code/logger",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/logger.md",
+  "version": "current",
+  "sidebar_label": "Logger",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Libraries",
+    "permalink": "/docs/dev/libraries"
+  },
+  "next": {
+    "title": "Program Parser",
+    "permalink": "/docs/dev/code/programparser"
+  }
+}

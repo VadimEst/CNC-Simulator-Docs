@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/mill",
+  "id": "dev/code/mill",
+  "isDocsHomePage": false,
+  "title": "Mill",
+  "description": "@package de.timonwei.cnc.workspace",
+  "source": "@site/docs/dev/code/mill.md",
+  "slug": "/dev/code/mill",
+  "permalink": "/docs/dev/code/mill",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/mill.md",
+  "version": "current",
+  "sidebar_label": "Mill",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Vector2Wrapper",
+    "permalink": "/docs/dev/code/vector2wrapper"
+  },
+  "next": {
+    "title": "CommandCoordinates",
+    "permalink": "/docs/dev/code/commandcoordinates"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/terminalreader",
+  "id": "dev/code/terminalreader",
+  "isDocsHomePage": false,
+  "title": "TerminalReader",
+  "description": "@package de.timonwei.cnc.service",
+  "source": "@site/docs/dev/code/terminalreader.md",
+  "slug": "/dev/code/terminalreader",
+  "permalink": "/docs/dev/code/terminalreader",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/terminalreader.md",
+  "version": "current",
+  "sidebar_label": "TerminalReader",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "SettingsParser",
+    "permalink": "/docs/dev/code/settingsparser"
+  },
+  "next": {
+    "title": "MillOutOfBoundsException",
+    "permalink": "/docs/dev/code/milloutofboundsexception"
+  }
+}

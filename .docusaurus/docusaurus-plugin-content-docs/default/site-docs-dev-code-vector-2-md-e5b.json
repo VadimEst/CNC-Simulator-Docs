@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/vector2",
+  "id": "dev/code/vector2",
+  "isDocsHomePage": false,
+  "title": "Vector2",
+  "description": "@package de.timonwei.cnc.utility",
+  "source": "@site/docs/dev/code/vector2.md",
+  "slug": "/dev/code/vector2",
+  "permalink": "/docs/dev/code/vector2",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/vector2.md",
+  "version": "current",
+  "sidebar_label": "Vector2",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "MillTimer",
+    "permalink": "/docs/dev/code/milltimer"
+  },
+  "next": {
+    "title": "ColorWrapper",
+    "permalink": "/docs/dev/code/colorwrapper"
+  }
+}

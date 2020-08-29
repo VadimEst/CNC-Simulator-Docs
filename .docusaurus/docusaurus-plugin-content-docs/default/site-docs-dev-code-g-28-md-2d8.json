@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/g28",
+  "id": "dev/code/g28",
+  "isDocsHomePage": false,
+  "title": "G28",
+  "description": "@package de.timonwei.cnc.workspace.commands.g",
+  "source": "@site/docs/dev/code/g28.md",
+  "slug": "/dev/code/g28",
+  "permalink": "/docs/dev/code/g28",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/g28.md",
+  "version": "current",
+  "sidebar_label": "G28",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "G03",
+    "permalink": "/docs/dev/code/g03"
+  },
+  "next": {
+    "title": "Line",
+    "permalink": "/docs/dev/code/line"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/programparser",
+  "id": "dev/code/programparser",
+  "isDocsHomePage": false,
+  "title": "Program Parser",
+  "description": "@package de.timonwei.cnc.service",
+  "source": "@site/docs/dev/code/programparser.md",
+  "slug": "/dev/code/programparser",
+  "permalink": "/docs/dev/code/programparser",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/programparser.md",
+  "version": "current",
+  "sidebar_label": "Program Parser",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Logger",
+    "permalink": "/docs/dev/code/logger"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/dev/code/settings"
+  }
+}

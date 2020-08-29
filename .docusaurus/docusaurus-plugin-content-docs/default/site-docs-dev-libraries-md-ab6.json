@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/libraries",
+  "id": "dev/libraries",
+  "isDocsHomePage": false,
+  "title": "Libraries",
+  "description": "The project uses several libraries to extend the functionality of the Java Delopment Kit. An overview of the used libraries can be found here.",
+  "source": "@site/docs/dev/libraries.md",
+  "slug": "/dev/libraries",
+  "permalink": "/docs/dev/libraries",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/libraries.md",
+  "version": "current",
+  "sidebar_label": "Libraries",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "User Interface Concept",
+    "permalink": "/docs/dev/ui-concept"
+  },
+  "next": {
+    "title": "Logger",
+    "permalink": "/docs/dev/code/logger"
+  }
+}

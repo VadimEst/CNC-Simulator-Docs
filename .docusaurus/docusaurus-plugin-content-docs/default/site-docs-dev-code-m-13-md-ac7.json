@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/m13",
+  "id": "dev/code/m13",
+  "isDocsHomePage": false,
+  "title": "M13",
+  "description": "@package de.timonwei.cnc.workspace.commands.m",
+  "source": "@site/docs/dev/code/m13.md",
+  "slug": "/dev/code/m13",
+  "permalink": "/docs/dev/code/m13",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/m13.md",
+  "version": "current",
+  "sidebar_label": "M13",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "M09",
+    "permalink": "/docs/dev/code/m09"
+  },
+  "next": {
+    "title": "M14",
+    "permalink": "/docs/dev/code/m14"
+  }
+}

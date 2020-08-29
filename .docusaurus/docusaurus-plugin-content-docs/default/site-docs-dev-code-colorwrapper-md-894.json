@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/colorwrapper",
+  "id": "dev/code/colorwrapper",
+  "isDocsHomePage": false,
+  "title": "ColorWrapper",
+  "description": "@package de.timonwei.utility.wrapper",
+  "source": "@site/docs/dev/code/colorwrapper.md",
+  "slug": "/dev/code/colorwrapper",
+  "permalink": "/docs/dev/code/colorwrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/colorwrapper.md",
+  "version": "current",
+  "sidebar_label": "ColorWrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Vector2",
+    "permalink": "/docs/dev/code/vector2"
+  },
+  "next": {
+    "title": "CommandParametersWrapper",
+    "permalink": "/docs/dev/code/commandparameterswrapper"
+  }
+}

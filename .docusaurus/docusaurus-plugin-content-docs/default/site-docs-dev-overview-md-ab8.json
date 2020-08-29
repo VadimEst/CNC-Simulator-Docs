@@ -1,0 +1,18 @@
+{
+  "unversionedId": "dev/overview",
+  "id": "dev/overview",
+  "isDocsHomePage": false,
+  "title": "Developer Documentation",
+  "description": "This is the developer documentation for the CNC Simulator project by Florian Koopmann, Yannik Pfrengle and Timon Weide.",
+  "source": "@site/docs/dev/overview.md",
+  "slug": "/dev/overview",
+  "permalink": "/docs/dev/overview",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/overview.md",
+  "version": "current",
+  "sidebar_label": "Overview",
+  "sidebar": "devSidebar",
+  "next": {
+    "title": "Contribute",
+    "permalink": "/docs/dev/contribute"
+  }
+}

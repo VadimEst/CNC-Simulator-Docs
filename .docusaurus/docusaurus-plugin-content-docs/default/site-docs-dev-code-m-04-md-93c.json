@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/m04",
+  "id": "dev/code/m04",
+  "isDocsHomePage": false,
+  "title": "M04",
+  "description": "@package de.timonwei.cnc.workspace.commands.m",
+  "source": "@site/docs/dev/code/m04.md",
+  "slug": "/dev/code/m04",
+  "permalink": "/docs/dev/code/m04",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/m04.md",
+  "version": "current",
+  "sidebar_label": "M04",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "M03",
+    "permalink": "/docs/dev/code/m03"
+  },
+  "next": {
+    "title": "M05",
+    "permalink": "/docs/dev/code/m05"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/m00",
+  "id": "dev/code/m00",
+  "isDocsHomePage": false,
+  "title": "M00",
+  "description": "@package de.timonwei.cnc.workspace.commands.m",
+  "source": "@site/docs/dev/code/m00.md",
+  "slug": "/dev/code/m00",
+  "permalink": "/docs/dev/code/m00",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/m00.md",
+  "version": "current",
+  "sidebar_label": "M00",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Line",
+    "permalink": "/docs/dev/code/line"
+  },
+  "next": {
+    "title": "M02",
+    "permalink": "/docs/dev/code/m02"
+  }
+}

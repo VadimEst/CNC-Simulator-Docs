@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/contribute",
+  "id": "dev/contribute",
+  "isDocsHomePage": false,
+  "title": "Contribute",
+  "description": "The project repository is released on GitHub.com and the main contributors are @floriankoopmann, @yannikpfrengle and @timonweide.",
+  "source": "@site/docs/dev/contribute.md",
+  "slug": "/dev/contribute",
+  "permalink": "/docs/dev/contribute",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/contribute.md",
+  "version": "current",
+  "sidebar_label": "Contribute",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Developer Documentation",
+    "permalink": "/docs/dev/overview"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/dev/getting-started"
+  }
+}

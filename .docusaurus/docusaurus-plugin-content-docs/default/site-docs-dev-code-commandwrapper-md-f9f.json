@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/commandwrapper",
+  "id": "dev/code/commandwrapper",
+  "isDocsHomePage": false,
+  "title": "CommandWrapper",
+  "description": "@package de.timonwei.cnc.utility wrapper",
+  "source": "@site/docs/dev/code/commandwrapper.md",
+  "slug": "/dev/code/commandwrapper",
+  "permalink": "/docs/dev/code/commandwrapper",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/commandwrapper.md",
+  "version": "current",
+  "sidebar_label": "CommandWrapper",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "CommandParametersWrapper",
+    "permalink": "/docs/dev/code/commandparameterswrapper"
+  },
+  "next": {
+    "title": "LogEntry",
+    "permalink": "/docs/dev/code/logentry"
+  }
+}

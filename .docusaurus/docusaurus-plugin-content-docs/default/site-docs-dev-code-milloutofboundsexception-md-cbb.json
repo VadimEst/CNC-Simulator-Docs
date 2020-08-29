@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/milloutofboundsexception",
+  "id": "dev/code/milloutofboundsexception",
+  "isDocsHomePage": false,
+  "title": "MillOutOfBoundsException",
+  "description": "@package de.timonwei.cnc.service.exceptions",
+  "source": "@site/docs/dev/code/milloutofboundsexception.md",
+  "slug": "/dev/code/milloutofboundsexception",
+  "permalink": "/docs/dev/code/milloutofboundsexception",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/milloutofboundsexception.md",
+  "version": "current",
+  "sidebar_label": "MillOutOfBoundsException",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "TerminalReader",
+    "permalink": "/docs/dev/code/terminalreader"
+  },
+  "next": {
+    "title": "InvalidCommandException",
+    "permalink": "/docs/dev/code/invalidcommandexception"
+  }
+}

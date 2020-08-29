@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dev/code/tool",
+  "id": "dev/code/tool",
+  "isDocsHomePage": false,
+  "title": "Tool",
+  "description": "@package de.timonwei.cnc.tools",
+  "source": "@site/docs/dev/code/tool.md",
+  "slug": "/dev/code/tool",
+  "permalink": "/docs/dev/code/tool",
+  "editUrl": "https://github.com/timonweide/cnc-simulator-docs/edit/master/docs/dev/code/tool.md",
+  "version": "current",
+  "sidebar_label": "Tool",
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "InvalidProgramFileException",
+    "permalink": "/docs/dev/code/invalidprogramfileexception"
+  },
+  "next": {
+    "title": "SettingsPopover",
+    "permalink": "/docs/dev/code/settingspopover"
+  }
+}
