@@ -22,7 +22,7 @@ sidebar_label: Commands
 
 | Command Name   | Syntax in Terminal   | Parameters  | Description    |
 | -------------- | -------------------- | ----------- | -------------- |
-| G00            | G00 or g00           | none        | Raid traverse motion, the mill runs faster and without drilling. |
+| G00            | G00 or g00           | X, Y        | Raid traverse motion, the mill runs faster and without drilling. |
 | G01            | G01 or g01           | X, Y        | Mill cuts a line, linear interpolation. |
 | G02            | G02 or g02           | X, Y, I, J  | Mill cuts a circular arc in clockwise circle interpolation. |
 | G03            | G03 or g03           | X, Y, I, J  | Mill cuts a circular arc in anticlockwise circle interpolation. |
