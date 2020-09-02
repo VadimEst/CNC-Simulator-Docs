@@ -65,6 +65,11 @@ module.exports = {
                             href: 'https://github.com/timonweide/CNC-Simulator/issues/new/choose',
                             target: '_blank',
                         },
+                        {
+                            label: 'Mail Support',
+                            href: 'mailto:mail@timonwei.de',
+                            target: '_blank',
+                        },
                     ],
                 },
                 {
